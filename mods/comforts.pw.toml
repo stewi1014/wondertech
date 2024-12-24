@@ -11,3 +11,6 @@ hash = "2f16e992c2fcff07acad3353fd69c2942bfdb56b457dcd29a2af6d41e9ea3e63bafa3ff0
 [update.modrinth]
 mod-id = "SaCpeal4"
 version = "duBFOcde"
+[update.curseforge]
+file-id = 5821146
+project-id = 276951

@@ -11,3 +11,6 @@ hash = "ff3acca19d4ec9e3ad4684922ec65e13716060bca97aaa1379497233cbcbc9c6f1228aee
 [update.modrinth]
 mod-id = "SISoSFPP"
 version = "XrWMQGnG"
+[update.curseforge]
+file-id = 5734080
+project-id = 930131

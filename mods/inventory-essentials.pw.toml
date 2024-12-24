@@ -11,3 +11,6 @@ hash = "6101796ee3f818aebb6f01a62792a52bd9d400154572d8d8cbff6bb7470ca9428bdec312
 [update.modrinth]
 mod-id = "Boon8xwi"
 version = "xlKgFkAZ"
+[update.curseforge]
+file-id = 5623542
+project-id = 368825

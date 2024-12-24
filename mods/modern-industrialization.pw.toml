@@ -11,3 +11,6 @@ hash = "618577aa76d849c53df148e1801699ae289595b724fcfe6b69f81e8cfc6cbbbcf3150538
 [update.modrinth]
 mod-id = "Gov5Dboq"
 version = "EVrWAtXD"
+[update.curseforge]
+file-id = 6006109
+project-id = 405388

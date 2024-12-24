@@ -11,3 +11,6 @@ hash = "f4d145266ae2ea109abc923efaf264e420a600f5c937e37c756b96356fb2dd73ffa4bf4c
 [update.modrinth]
 mod-id = "R2OftAxM"
 version = "clpgpAoc"
+[update.curseforge]
+file-id = 5962800
+project-id = 398521

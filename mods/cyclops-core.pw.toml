@@ -11,3 +11,6 @@ hash = "3e9cac3b618ab67dbeeccf0f829c94163b0fb82562b881dc1f0aaa0bf89c77a9709a163d
 [update.modrinth]
 mod-id = "Z9DM0LJ4"
 version = "SSpreHGg"
+[update.curseforge]
+file-id = 6010773
+project-id = 232758

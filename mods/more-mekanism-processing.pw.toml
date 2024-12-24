@@ -11,3 +11,6 @@ hash = "d327634d323b846d4682090c249016dc80571b00873ab47926a905242c2ba88adf9138b1
 [update.modrinth]
 mod-id = "fVa04tKz"
 version = "aP4S199e"
+[update.curseforge]
+file-id = 5932784
+project-id = 511965

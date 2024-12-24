@@ -11,3 +11,6 @@ hash = "bbfe003ed29a2bb0b4dd0a61d64b411748c9f5cb48ccbfd954dd2d813c452c540638749b
 [update.modrinth]
 mod-id = "lOOpEntO"
 version = "a0oKmnPU"
+[update.curseforge]
+file-id = 5824104
+project-id = 280510

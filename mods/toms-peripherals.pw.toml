@@ -11,3 +11,6 @@ hash = "1a541dc20fdd1a86b04705cbc08cbf153a49dc6119a8af4254eee19cbf7df201d0dfa24b
 [update.modrinth]
 mod-id = "ljgxd2P8"
 version = "pS7OROMk"
+[update.curseforge]
+file-id = 5805842
+project-id = 931210

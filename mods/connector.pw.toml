@@ -11,3 +11,6 @@ hash = "91380f496538924f77cf1a069bd7f0689693a22d7aaf2cdb7a3eb6227373e2a7a16aa077
 [update.modrinth]
 mod-id = "u58R1TMW"
 version = "aQSgBo32"
+[update.curseforge]
+file-id = 5897222
+project-id = 890127

@@ -11,3 +11,6 @@ hash = "9fe209c8c972eb5d46427449a8f03d891e1267a34ddb6462eed8a63317adbddc22379690
 [update.modrinth]
 mod-id = "fALzjamp"
 version = "Bq6sxES5"
+[update.curseforge]
+file-id = 5437053
+project-id = 485681
