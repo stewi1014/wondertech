@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "fec75e2609d0ecd3e72f950af5fd8287802247323c861df05f0e5668aee69fe5"
-
-[[files]]
 file = "config/bcc-common.toml"
 hash = "773055ba9341c2a7d41ff3f2306fae61d22ae29534548fdf49d8a5586cd136e5"
 
