@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "fec75e2609d0ecd3e72f950af5fd8287802247323c861df05f0e5668aee69fe5"
+
+[[files]]
 file = "config/bcc-common.toml"
 hash = "773055ba9341c2a7d41ff3f2306fae61d22ae29534548fdf49d8a5586cd136e5"
 
@@ -52,35 +56,35 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ae2.zip"
-hash = "7b93925aad99628489e8d384b5fbea6df3082a86cefd3868d6ab3854fbce6276"
+hash = "d23e67b8f4d4d88ebd09640e55f6e3b0c1485aa9f391bab930aece01c501dea7"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ambientsounds.zip"
-hash = "cd9c2e5674e5382a2b58f8ca46dc6b3bce60b4f52318ede78c0776b6530623dd"
+hash = "194e54f93e0f36797889b9338d1f097900288e0f876f93f7add20e406d702d1a"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_dnt.zip"
-hash = "1dc74f8f7d1870fe3dad043a3e89213bce605db26dba582a3a2e8570280243cb"
+hash = "06e5591fb20e9e5606e492239d3b88705082c02b084696688b61119538d8c514"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_immersiveengineering.zip"
-hash = "addfbe9f4354ea7688d88de96584799734e80d4cf1684a7230624a25a6d2a7b8"
+hash = "5dd31a758d96417a6ff90d4f49aae0cfb9c6ad0848d055a4add88e9ac2a2e803"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_integrateddynamics.zip"
-hash = "c92a3e269b097a4de7f63a7c12c74fe681d898fa8c4675acd7e64b3e9f6b531e"
+hash = "53b2ffed5cfbd4720d8f2a4b7cdefa7f85d437a0e9c75f8eadd0d924969f0463"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_mekanism.zip"
-hash = "108a4b9a4a49bfe70870624f902a7f8f6cf443c8bd41e6b6d25364180cc65746"
+hash = "ec01859942e297f10f6aec2d54f44cbc38d05b8db3460ea77bed0e0d32f7de85"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_modernindustrialization.zip"
-hash = "eac481bb9714814f388e122a9f85ab429739bbb97f1032923c7f2d7af8b285ae"
+hash = "b415c5e80c760dd187df01594d916ae7d7e593fb6b559963de33843de9b53498"
 
 [[files]]
 file = "config/paxi/resourcepacks/bigglobe_ambientsounds.zip"
-hash = "cd9c2e5674e5382a2b58f8ca46dc6b3bce60b4f52318ede78c0776b6530623dd"
+hash = "194e54f93e0f36797889b9338d1f097900288e0f876f93f7add20e406d702d1a"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
