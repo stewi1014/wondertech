@@ -561,6 +561,16 @@ hash = "a5764aa32001885cebf954071268d76bd3e925f7831034e3b8e8d7f0e5201eb7"
 metafile = true
 
 [[files]]
+file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
+hash = "6d98729991915029e080d35d7493c11de9168fd09e58247ecb5b3dca499dee1e"
+metafile = true
+
+[[files]]
+file = "mods/more-red.pw.toml"
+hash = "f978224776c543bba4eda79ab3352f00b9eafd72e24167474775e2c130527313"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "0107e619d7abeb249429711e36eab926c394c955a4869328d33bdb4693adcde4"
 metafile = true
