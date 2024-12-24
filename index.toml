@@ -626,10 +626,6 @@ hash = "ab927a58eecd4cd93193b6a058af183b589c75190aad737266c1e6c8814ba642"
 metafile = true
 
 [[files]]
-file = "mods/sinytra1343-1.1.0.jar"
-hash = "5c09e6284d4ec031731b6e59854edab782eeae9d723b5f40f6fe77c775b0987f"
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "13b56e4c8bfa6dd4610483f0a4594d67da762c0f8f7039d13a0d7a152e48b8d9"
 metafile = true
