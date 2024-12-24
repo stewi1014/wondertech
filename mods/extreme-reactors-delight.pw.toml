@@ -1,0 +1,13 @@
+name = "Extreme Reactors Delight"
+filename = "extremereactorsdelight-1.0.1.1-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1kLnMzlj/versions/MWbrzMJM/extremereactorsdelight-1.0.1.1-1.21.jar"
+hash-format = "sha512"
+hash = "5ce776be0803424700f5ce50e2455230f39a3acecdc0d6f7a57434dc025384cb95fd98ecb7b34ca8064fa070d9bbd0931a6e9e9f4980a4820bf86a280507cf80"
+
+[update]
+[update.modrinth]
+mod-id = "1kLnMzlj"
+version = "MWbrzMJM"

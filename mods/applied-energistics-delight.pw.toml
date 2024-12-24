@@ -1,0 +1,13 @@
+name = "Applied Energistics Delight"
+filename = "appliedenergisticsdelight-1.0.2.2-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KgjxIaXg/versions/sEfNT7KB/appliedenergisticsdelight-1.0.2.2-1.21.x.jar"
+hash-format = "sha512"
+hash = "2070ec55d99ac7bdb8fb1903160e8e36ea87172f541e682bd0b033c4b38ff1efb9402423653f9e06ac1d871f41242a4597466a8f0ee952d219050453a3c81dc0"
+
+[update]
+[update.modrinth]
+mod-id = "KgjxIaXg"
+version = "sEfNT7KB"

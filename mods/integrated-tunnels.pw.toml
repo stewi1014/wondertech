@@ -1,0 +1,13 @@
+name = "Integrated Tunnels"
+filename = "integratedtunnels-1.21.1-neoforge-1.8.30-340.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Etqy1Omb/versions/cznj083r/integratedtunnels-1.21.1-neoforge-1.8.30-340.jar"
+hash-format = "sha512"
+hash = "abeee3baf3e4fbe85a24c47c50d5fb7398fe274c321d55210f8dcdad559860371c3b7ca4b35490ee889c086603e5141cf60c0890549cdf6e62376ef395628405"
+
+[update]
+[update.modrinth]
+mod-id = "Etqy1Omb"
+version = "cznj083r"

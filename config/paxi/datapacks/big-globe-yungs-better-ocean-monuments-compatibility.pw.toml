@@ -1,0 +1,13 @@
+name = "Big Globe - YUNG's Better Ocean Monuments Compatibility"
+filename = "Big-Globe -YUNGs-Better-Ocean-Monuments-Compat_1.21.x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f4mC1K5U/versions/rTvD6kDT/Big-Globe%20-YUNGs-Better-Ocean-Monuments-Compat_1.21.x.zip"
+hash-format = "sha512"
+hash = "f6784863f3472bad958ecca04c08c0ee3dfcdcf307c8e577abf53ced3b2a5827962e29d759c061c1ca506048ce46e94a6e53344495f0e7efafd1f6ab905a3992"
+
+[update]
+[update.modrinth]
+mod-id = "f4mC1K5U"
+version = "rTvD6kDT"

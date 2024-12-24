@@ -1,0 +1,16 @@
+name = "WonderTech"
+author = "Stewart Borle"
+version = "1.1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "62847aeb3564163c04999e90253a914b5e79ea82e1b88dbace3c904a205aaa40"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.90"
+
+[options]
+datapack-folder = "config/paxi/datapacks"

@@ -1,0 +1,44 @@
+_version = 3
+
+[common]
+	[common.logging]
+		[common.logging.warning]
+			#
+			# If enabled, a chat message will be displayed when DH has too many chunks
+			# queued for updating.
+			showUpdateQueueOverloadedChatWarning = true
+
+			#
+			# If enabled, a chat message will be displayed when a potentially problematic
+			# mod is installed alongside DH.
+			showModCompatibilityWarningsOnStartup = false
+
+[client]
+	[client.advanced]
+		[client.advanced.autoUpdater]
+			#
+			# Automatically check for updates on game launch?
+			enableAutoUpdater = false
+
+		[client.advanced.graphics]
+			[client.advanced.graphics.culling]
+				#
+				# If enabled caves will be culled
+				#
+				# NOTE: This feature is under development and
+				#  it is VERY experimental! Please don't report
+				#  any issues related to this feature.
+				#
+				# Additional Info: Currently this cull all faces
+				#  with skylight value of 0 in dimensions that
+				#  does not have a ceiling.
+				enableCaveCulling = false
+
+			[client.advanced.graphics.quality]
+				# This indicates how well LODs will represent
+				# overhangs, caves, floating islands, etc.
+				# Higher options will make the world more accurate, butwill increase memory and GPU usage.
+				#
+				# Lowest Quality: HEIGHT_MAP
+				# Highest Quality: EXTREME
+				verticalQuality = "HIGH"

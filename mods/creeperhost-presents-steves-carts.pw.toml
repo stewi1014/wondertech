@@ -1,0 +1,13 @@
+name = "CreeperHost Presents Steve's Carts"
+filename = "stevescarts-1.21-1.2.12-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n1RjKB2S/versions/r6pV02e2/stevescarts-1.21-1.2.12-neoforge.jar"
+hash-format = "sha512"
+hash = "ec077bdafa3f8c00a79c30d51749c2d5c7cb43904314cdf53d49d002082f23f9cc05390480f290abd33f39d2e70d82c7364046568a2f5f73779805b284a956d6"
+
+[update]
+[update.modrinth]
+mod-id = "n1RjKB2S"
+version = "r6pV02e2"

@@ -1,0 +1,13 @@
+name = "Mekanism Delight"
+filename = "mekanismdelight-1.0.2.1-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H7aqXBWR/versions/iK95qo68/mekanismdelight-1.0.2.1-1.21.x.jar"
+hash-format = "sha512"
+hash = "f9331b559adb4d91256b680023a3fb2249074c2994642b8dc939b633c2e469441b47045ff44a7f9cf32335317dfa415cd7b5d4cfb5422a06a11e1b1ebaccf561"
+
+[update]
+[update.modrinth]
+mod-id = "H7aqXBWR"
+version = "iK95qo68"
