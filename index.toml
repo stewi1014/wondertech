@@ -113,7 +113,7 @@ hash = "564853e39cd0e34893da8befde1fada8897d7f6319f4e96f8cb3f977aec36fd1"
 
 [[files]]
 file = "configureddefaults/server.properties"
-hash = "7f86bdc864763de1921139dbfa7786861611bf988c4117dfea3ec1f05b214e61"
+hash = "f3bc8f06e39ef1b4547a8d3a68a9a24d8aeedb6cb061f97dc0f2dfd30586fe0b"
 
 [[files]]
 file = "mods/DistantHorizons-neoforge-2.3.0-b-dev-1.21.1.jar"
