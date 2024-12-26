@@ -491,6 +491,11 @@ hash = "fa954a30e13aff29f1ec4c084d2557c47e3061a61fc544c8a729ed518f2018b7"
 metafile = true
 
 [[files]]
+file = "mods/living-things.pw.toml"
+hash = "87c29a7e5323629d1bb75b7615814eaba44c9d0874c838ffbf132f4443f7d3b0"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "32bca2029a6a1145b1b6676ec9456d5f45042f7b6d4a61b65cc10357ddca7cee"
 metafile = true
