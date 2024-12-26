@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "a05a060c82d89cb4b2e5f18f5cba15dba79eb13c9b20f96f5c8fbeb298667968"
+hash = "0cea32c14ebfbb49c57465c223fb9b2c136a3eede56a2568389c62da054b510a"
 metafile = true
 
 [[files]]
