@@ -79,6 +79,10 @@ file = "config/paxi/datapacks/bigglobe_modernindustrialization.zip"
 hash = "b415c5e80c760dd187df01594d916ae7d7e593fb6b559963de33843de9b53498"
 
 [[files]]
+file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
+hash = "5fdd8de798c8a5f8b1fec2771d9816495874d707762f32f25e76ba1c4fc4952c"
+
+[[files]]
 file = "config/paxi/resourcepacks/bigglobe_ambientsounds.zip"
 hash = "194e54f93e0f36797889b9338d1f097900288e0f876f93f7add20e406d702d1a"
 
@@ -664,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/tesseract.pw.toml"
 hash = "3621c468f3f036a765f2e1502e1126f6c3dc04af486f9ffa59c6b665ae6b6142"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "b4edb95ce408c7733103cb4f9833543a65258dcfffdc8346be6769facf140f02"
 metafile = true
 
 [[files]]
