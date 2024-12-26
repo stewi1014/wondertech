@@ -120,6 +120,10 @@ file = "mods/DistantHorizons-neoforge-2.3.0-b-dev-1.21.1.jar"
 hash = "ed73f2019f995cdf75296d9b4a85eb0cb99f43d2ad125447e655b9f9ec4d0956"
 
 [[files]]
+file = "mods/Vertigo-1.0.0-MC1.21.1.jar"
+hash = "44951e81bf641633dc8ae80e99f45904a98ceb72a7e4e03df0b39ea84843e721"
+
+[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "e2419358d18f30b2c93901ede66ce5fa6d203a25f246b99e9119e4cb47905267"
 metafile = true
@@ -216,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-globe.pw.toml"
-hash = "0d0d5e2e7d5754b4c1adf4fb7afebf17de72bb435a6364326e0d342624428d5e"
+hash = "608f20d463dfe084a959946be42f92bf3df5965cab618b30eaece129fb0c193d"
 metafile = true
 
 [[files]]
