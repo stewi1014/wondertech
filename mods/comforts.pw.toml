@@ -8,9 +8,9 @@ hash-format = "sha512"
 hash = "2f16e992c2fcff07acad3353fd69c2942bfdb56b457dcd29a2af6d41e9ea3e63bafa3ff01f08d97ddd1e23b17a1fdd3c32d3195680b4a2445eb07817b23447db"
 
 [update]
-[update.modrinth]
-mod-id = "SaCpeal4"
-version = "duBFOcde"
 [update.curseforge]
 file-id = 5821146
 project-id = 276951
+[update.modrinth]
+mod-id = "SaCpeal4"
+version = "duBFOcde"

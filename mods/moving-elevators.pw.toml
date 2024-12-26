@@ -8,9 +8,9 @@ hash-format = "sha512"
 hash = "892c26d839213e8ca0c538ebb9b4d25fca5bf637a7e1313d8e84a057231ea80c936a9780034ef92727e0fb3c8dd05baa1ef9ca75b8c40c1991c54e04b1b1c4e3"
 
 [update]
-[update.modrinth]
-mod-id = "9KZOe6HD"
-version = "vMJUtrtv"
 [update.curseforge]
 file-id = 5891503
 project-id = 373051
+[update.modrinth]
+mod-id = "9KZOe6HD"
+version = "vMJUtrtv"
