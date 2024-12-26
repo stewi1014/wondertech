@@ -1,0 +1,16 @@
+name = "Deeper and Darker - Farmer's Delight - Bark Cutting Compat"
+filename = "DD-FD-Compat - v.1.01.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1IjZkbF4/versions/7D3fBP9W/DD-FD-Compat%20-%20v.1.01.zip"
+hash-format = "sha512"
+hash = "288ea4897408e1e8f9bb32cc8c8308d57cbb4b6dd8e5c6730b18bab89b04aeb74ea588fe06345843981cd237a1541439dcc2205410371c52aeb0fb5970d8431b"
+
+[update]
+[update.modrinth]
+mod-id = "1IjZkbF4"
+version = "7D3fBP9W"
+[update.curseforge]
+file-id = 5801348
+project-id = 1090893

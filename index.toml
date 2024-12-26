@@ -87,6 +87,11 @@ file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
 hash = "5fdd8de798c8a5f8b1fec2771d9816495874d707762f32f25e76ba1c4fc4952c"
 
 [[files]]
+file = "config/paxi/datapacks/deeper-and-darker-farmers-delight-bark-cutting-compat.pw.toml"
+hash = "3e5e4b77b44057068093f05afb3becb7868d1c2797351b1b284db6d8380baeb4"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/the-undergarden-farmers-delight-bark-cutting-compat.pw.toml"
 hash = "951ede190771346ec4395816964fbe43b1df4320d472f4a96ea4ca58d6514517"
 metafile = true
@@ -311,6 +316,16 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "f85cf6ac7445cbb6023b1844a788e2b2329976e12e7e7fd492e75df5c8f7c7a8"
+metafile = true
+
+[[files]]
+file = "mods/deeper-and-darker-delight.pw.toml"
+hash = "40beb85332a45461d2be120fddaf46c8c562943ce8173d56b42e1de34bc3e2f2"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "dffa54bd240a98b21b037455f4915b685fe824d049d08bd9600939ce028477c7"
 metafile = true
 
 [[files]]
