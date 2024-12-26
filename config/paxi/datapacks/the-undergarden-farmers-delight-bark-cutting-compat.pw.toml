@@ -1,0 +1,13 @@
+name = "The Undergarden - Farmer's Delight - Bark Cutting Compat"
+filename = "UG-FD-Compat - v.1.01.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/whbtCmkY/versions/n9noRHFV/UG-FD-Compat%20-%20v.1.01.zip"
+hash-format = "sha512"
+hash = "17a678b0adbe2c137cfed8f035eeef564218689bc21f76ecf5d5b5dbb45227ec766fd04f66090387ed5105b431fc5f6f3e36bf83b5e12d24d9ba55a9916bb056"
+
+[update]
+[update.modrinth]
+mod-id = "whbtCmkY"
+version = "n9noRHFV"

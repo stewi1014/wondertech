@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "773055ba9341c2a7d41ff3f2306fae61d22ae29534548fdf49d8a5586cd136e5"
+hash = "14adbb869caaf8979eabc481df66c26f7b8142437a602d0859d36a6ef2f289bd"
 
 [[files]]
 file = "config/paxi/datapacks/Big Globe - Ars Additions Compat.zip"
@@ -11,6 +11,10 @@ hash = "9bdd55457c4235704a2dac989888aa5489fba60bee7ccb3bc91ec85db0a9b710"
 [[files]]
 file = "config/paxi/datapacks/Big Globe - Ars Nouveau Compat.zip"
 hash = "d512079f18112e42b53a81c978d923b38bd494bd7201a6a8e3d14dbd07a6cdec"
+
+[[files]]
+file = "config/paxi/datapacks/Big Globe - Eternal Starlight Compat.zip"
+hash = "d9526a7a91fbca979e45524094913c9b550eb7ee6938bad8af30a78d2e9fb5e2"
 
 [[files]]
 file = "config/paxi/datapacks/Big_Globe__TOTW.zip"
@@ -81,6 +85,11 @@ hash = "b415c5e80c760dd187df01594d916ae7d7e593fb6b559963de33843de9b53498"
 [[files]]
 file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
 hash = "5fdd8de798c8a5f8b1fec2771d9816495874d707762f32f25e76ba1c4fc4952c"
+
+[[files]]
+file = "config/paxi/datapacks/the-undergarden-farmers-delight-bark-cutting-compat.pw.toml"
+hash = "951ede190771346ec4395816964fbe43b1df4320d472f4a96ea4ca58d6514517"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/bigglobe_ambientsounds.zip"
@@ -351,6 +360,11 @@ hash = "72b8f5cb391c1820fd587f4095bad0287816bddfa061b187b3a9149a23f014cf"
 metafile = true
 
 [[files]]
+file = "mods/eternal-starlight.pw.toml"
+hash = "9ab61b5909c22348b09a6908ddcbbca98a516d6864124c2f68017cbc357ba223"
+metafile = true
+
+[[files]]
 file = "mods/experiencelib.pw.toml"
 hash = "b8688f3d478ab87a2235abb591514c0caa2e32f542957bde6c69916659624f63"
 metafile = true
@@ -368,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "aa659a3438c8894b19c4c507b4f7cec9db4d2c3ba41b78b7561a83e740e15c61"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-eternal-starlight.pw.toml"
+hash = "bee5c4a0eedfe5e1002f32f99b2d0ddbc4f51917c9ba613e850e707318ad0524"
 metafile = true
 
 [[files]]
@@ -673,6 +692,11 @@ metafile = true
 [[files]]
 file = "mods/tesseract.pw.toml"
 hash = "3621c468f3f036a765f2e1502e1126f6c3dc04af486f9ffa59c6b665ae6b6142"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "5bcfac11949cd8eda403e4cce8bc2f05a2b3a385fbdf993b25ae865e10fc5956"
 metafile = true
 
 [[files]]
