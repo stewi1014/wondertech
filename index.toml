@@ -174,6 +174,11 @@ hash = "537969dc534add78d46791aa30b17557cd1fe1e9dc909813f6c7d49da7ed8dcd"
 metafile = true
 
 [[files]]
+file = "mods/aquatic-frontiers.pw.toml"
+hash = "db066a52974757c5a19792c23ad4199724627c3dd884244594f6e9d503b9a2f4"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "241c31281dfb4908ba254309677b7e44508b56a1e65c96f15b1f4616e488b072"
 metafile = true
