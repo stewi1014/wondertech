@@ -1,0 +1,16 @@
+name = "More Mekanism Processing"
+filename = "MoreMekanismProcessing-1.21.1-6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fVa04tKz/versions/aP4S199e/MoreMekanismProcessing-1.21.1-6.2.jar"
+hash-format = "sha512"
+hash = "d327634d323b846d4682090c249016dc80571b00873ab47926a905242c2ba88adf9138b17e5b382fee80c82b27651d1fcf71c38c3f4856a2cae332b062c2b194"
+
+[update]
+[update.curseforge]
+file-id = 5932784
+project-id = 511965
+[update.modrinth]
+mod-id = "fVa04tKz"
+version = "aP4S199e"

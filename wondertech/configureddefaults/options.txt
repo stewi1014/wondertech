@@ -1,0 +1,5 @@
+renderDistance:5
+simulationDistance:5
+guiScale:2
+skipMultiplayerWarning:true
+resourcePacks:["vanilla","fabric","mod_resources","wondertech","continuity:default","continuity:glass_pane_culling_fix"]

@@ -1,0 +1,16 @@
+name = "Polytone"
+filename = "polytone-1.21-3.2.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/BKDSFE4i/polytone-1.21-3.2.5.jar"
+hash-format = "sha512"
+hash = "9d27c8bd0cbd9eab4a1661a76256e0e8a21c1dc88df60be0abff83c4daeaf48526eac23357cbfdd4b68bfb7b37a4a38696f771de95a822edc994ba8e83528b60"
+
+[update]
+[update.curseforge]
+file-id = 6097268
+project-id = 958094
+[update.modrinth]
+mod-id = "3qAYkBMB"
+version = "BKDSFE4i"

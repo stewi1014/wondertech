@@ -1,0 +1,16 @@
+name = "LDLib"
+filename = "ldlib-neoforge-1.21.1-1.0.29.b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B1CBVXHX/versions/YNLkNCSo/ldlib-neoforge-1.21.1-1.0.29.b.jar"
+hash-format = "sha512"
+hash = "e4630822dd331257d08217ad3b6184cd49f094573926beae118ad2f6ab63338687ebae230e0ee1c98cf1c6ded1bec243b59c01ff1a6046240509b6e892c32993"
+
+[update]
+[update.curseforge]
+file-id = 5782845
+project-id = 626676
+[update.modrinth]
+mod-id = "B1CBVXHX"
+version = "YNLkNCSo"

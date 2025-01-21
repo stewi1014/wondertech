@@ -1,0 +1,16 @@
+name = "GregTechCEu Modern"
+filename = "gtceu-1.21.1-1.4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7tG215v7/versions/OoILzzLZ/gtceu-1.21.1-1.4.6.jar"
+hash-format = "sha512"
+hash = "4977321b97cb3844e4f9ce58ce823f5d740f1a585470adac82cb7f66b553c6d7ed6e9fae633049eda6e35cd3fa55a336602953e24cdd9eed74b66ca06d428035"
+
+[update]
+[update.curseforge]
+file-id = 5812613
+project-id = 890405
+[update.modrinth]
+mod-id = "7tG215v7"
+version = "OoILzzLZ"

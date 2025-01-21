@@ -1,0 +1,13 @@
+name = "Applied Flux"
+filename = "AppliedFlux-1.21-2.0.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "9484d8b2ff45167667ad414404e25b37d9ff5eec50b74a6441f07a92410bf55f35914745d6086a06d79895614809bb54c854fe959d6242c7764f251e4a69cca1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5946853
+project-id = 965012

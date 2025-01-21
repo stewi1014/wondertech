@@ -1,0 +1,13 @@
+name = "Fabulous Fletching"
+filename = "FabulousFletching(NEOFORGE)V2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd87c9a9c196b400ea7eec1a504b5e9e5b0d787b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5989499
+project-id = 950158

@@ -1,0 +1,16 @@
+name = "MEGA Cells"
+filename = "megacells-4.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jjuIRIVr/versions/BfkrkLgj/megacells-4.5.0.jar"
+hash-format = "sha512"
+hash = "6e8cdda3816c04f5b9f00e434f62914b4edceb9d75c49d539780aa67fcc007422a5af83f0dd38d268c1575dd3fbb04594cfa545033a818ff1f8a2b10a9725c37"
+
+[update]
+[update.curseforge]
+file-id = 6105196
+project-id = 622112
+[update.modrinth]
+mod-id = "jjuIRIVr"
+version = "BfkrkLgj"

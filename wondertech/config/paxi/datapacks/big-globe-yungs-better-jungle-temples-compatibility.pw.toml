@@ -1,0 +1,13 @@
+name = "Big Globe - YUNG's Better Jungle Temples Compatibility"
+filename = "Big-Globe -YUNGs-Better-Jungle-Temples-Compat_1.21.x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wFdjhYov/versions/YGzkNhDa/Big-Globe%20-YUNGs-Better-Jungle-Temples-Compat_1.21.x.zip"
+hash-format = "sha512"
+hash = "7d7d04e60161897290549d4d7e68dcb3d90d4753fa030a09a7a1a3dfee7874c686c6e1638296d98f380aee093f0561428319cb1df6f6fa6a37126177d3aa88ec"
+
+[update]
+[update.modrinth]
+mod-id = "wFdjhYov"
+version = "YGzkNhDa"

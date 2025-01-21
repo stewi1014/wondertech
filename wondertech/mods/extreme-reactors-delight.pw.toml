@@ -1,0 +1,16 @@
+name = "Extreme Reactors Delight"
+filename = "extremereactorsdelight-1.0.1.3-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1kLnMzlj/versions/BKpJTakf/extremereactorsdelight-1.0.1.3-1.21.x.jar"
+hash-format = "sha512"
+hash = "68a2367f58bfbe57addb0182226104dc1c67fe969b307d60abf1972a9ad2b9ef968f4204d19cd58c6622563e1fd8f727466b85fbebb9982744332f3f2e07e012"
+
+[update]
+[update.curseforge]
+file-id = 5845730
+project-id = 1087237
+[update.modrinth]
+mod-id = "1kLnMzlj"
+version = "BKpJTakf"

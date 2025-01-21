@@ -1,0 +1,16 @@
+name = "Ars Additions"
+filename = "ars_additions-1.21.1-21.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GYK6Gk8R/versions/a2XxgryW/ars_additions-1.21.1-21.1.5.jar"
+hash-format = "sha512"
+hash = "205408d6ad5f35a4b82e28804667b165194b4b576eda5891a86d2053543f3d0fda094d9b798ba5477e0d62b11fd8c6e18dde9598c773ba824c38de14b8755df5"
+
+[update]
+[update.curseforge]
+file-id = 5963794
+project-id = 974408
+[update.modrinth]
+mod-id = "GYK6Gk8R"
+version = "a2XxgryW"

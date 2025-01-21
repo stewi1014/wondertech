@@ -1,0 +1,13 @@
+name = "Enchantable Blocks"
+filename = "EnchantableBlocks-1.21.1-0.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zbhMM2Z0/versions/vTFbxcP0/EnchantableBlocks-1.21.1-0.1.5.jar"
+hash-format = "sha512"
+hash = "d28460fb6742bb7e851bbb1789581d6cbd3439fd5a65ab8cd49b48838927b27a13f0f14885c95ae41f8469ba7cef88c6807bffe31dde30e8a5503632800dd4bf"
+
+[update]
+[update.modrinth]
+mod-id = "zbhMM2Z0"
+version = "vTFbxcP0"

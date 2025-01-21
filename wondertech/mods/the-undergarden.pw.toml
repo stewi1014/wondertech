@@ -1,0 +1,16 @@
+name = "The Undergarden"
+filename = "The_Undergarden-1.21.1-0.8.22.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ejfl5qDL/versions/KE5dgP9X/The_Undergarden-1.21.1-0.8.22.jar"
+hash-format = "sha512"
+hash = "babb73aa992cc9ef7170d452beffb356eb10ecbd3f0baabc97090627246e77669c5c99100820ccdb06f5d6daf8c155e3c1be5490484067eb5ff525f9e54a5bab"
+
+[update]
+[update.curseforge]
+file-id = 5769852
+project-id = 379849
+[update.modrinth]
+mod-id = "Ejfl5qDL"
+version = "KE5dgP9X"

@@ -1,0 +1,13 @@
+name = "Big Globe - YUNG's Better Desert Temples Compatibility"
+filename = "Big-Globe -YUNGs-Better-Desert-Temples-Compat_1.21.x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QKHuMlDl/versions/CuyLOH6U/Big-Globe%20-YUNGs-Better-Desert-Temples-Compat_1.21.x.zip"
+hash-format = "sha512"
+hash = "30e487f8ce870aa5c52f06c3fc0e31b9f88fa6c57ed6c9f7c2ba1cc606a1d2f86071173a2620ed5aec61441d7327b01a52b9da610075c158db8a71126d903674"
+
+[update]
+[update.modrinth]
+mod-id = "QKHuMlDl"
+version = "CuyLOH6U"

@@ -1,0 +1,16 @@
+name = "Common Capabilities"
+filename = "commoncapabilities-1.21.1-neoforge-2.9.7-195.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oFXrCkDI/versions/R7c7ds8z/commoncapabilities-1.21.1-neoforge-2.9.7-195.jar"
+hash-format = "sha512"
+hash = "e1e7e50f4f0989c09a2ce9f26e67a46c23a468a602e6de4e4f3f56716eadb1ebe3e8e13ef991d5088adb9d697d99697dda66d6cd6fc2bed5beced680c171975c"
+
+[update]
+[update.curseforge]
+file-id = 6059616
+project-id = 247007
+[update.modrinth]
+mod-id = "oFXrCkDI"
+version = "R7c7ds8z"

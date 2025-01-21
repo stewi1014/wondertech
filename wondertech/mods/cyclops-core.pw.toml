@@ -1,0 +1,16 @@
+name = "Cyclops Core"
+filename = "cyclopscore-1.21.1-neoforge-1.25.5-696.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/weF95Pz2/cyclopscore-1.21.1-neoforge-1.25.5-696.jar"
+hash-format = "sha512"
+hash = "87cfcf9049c96f8962b47dc20a8693e2619fbeb7d67b85e87fbdad14c33ef5bbbabbe1fd8ec032bc51ab51ec0addc12cdbdeab78fc03cb52b1b2228517b605bf"
+
+[update]
+[update.curseforge]
+file-id = 6059640
+project-id = 232758
+[update.modrinth]
+mod-id = "Z9DM0LJ4"
+version = "weF95Pz2"

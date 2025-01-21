@@ -1,0 +1,13 @@
+name = "Scribble"
+filename = "Scribble-1.4.4+mc1.21-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yXAvIk0x/versions/qZCwBy8M/Scribble-1.4.4%2Bmc1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "071a646bfba7fea2e0b5dd11571f7df21633a71a8fe0c21126e79b1baaeecc25874847df411e6418f64229b1e9564f13759cdf71c912db4fc1fa362c2375c1f6"
+
+[update]
+[update.modrinth]
+mod-id = "yXAvIk0x"
+version = "qZCwBy8M"

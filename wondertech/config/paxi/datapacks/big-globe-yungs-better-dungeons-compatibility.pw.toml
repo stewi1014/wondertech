@@ -1,0 +1,13 @@
+name = "Big Globe - YUNG's Better Dungeons Compatibility"
+filename = "Big-Globe-YUNGs-Better-Dungeons-Compat_1.21.x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VOha5rKf/versions/CY74l7qc/Big-Globe-YUNGs-Better-Dungeons-Compat_1.21.x.zip"
+hash-format = "sha512"
+hash = "68eca094e87c79aacb5d9c9e945613fe58f2c7c211c807a36f25406d6fa7ef3f0b2376eb992ff1817bfd8522e96a30c3c29fa89e5c22af7762b3c8e2494766d7"
+
+[update]
+[update.modrinth]
+mod-id = "VOha5rKf"
+version = "CY74l7qc"

@@ -1,0 +1,4 @@
+#General settings
+[general]
+	#Disables Amendments suggestion screen
+	no_amendments_screen = true
