@@ -1,16 +1,16 @@
 name = "Actually Additions"
-filename = "actuallyadditions-1.3.12+mc1.21.1.jar"
+filename = "actuallyadditions-1.3.13+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4K7Q3nqd/versions/nO8yMIM0/actuallyadditions-1.3.12%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/4K7Q3nqd/versions/uHsuicuM/actuallyadditions-1.3.13%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "085e9e5735536bfc05ad859b962c46f91894a15184082ea8bd2fa5bcf8593923d0d3a041fe246a1b002b8773991dd38b42d227d98e5d8604acebc4232c32270d"
+hash = "53e2345399237953df1b909f92c8c25048d57bdec397d5e667f6503185954806ec9f36fe5e54371198484b4848a1570b750a8bc0f1754764475446111a176f10"
 
 [update]
 [update.curseforge]
-file-id = 6003504
+file-id = 6085031
 project-id = 228404
 [update.modrinth]
 mod-id = "4K7Q3nqd"
-version = "nO8yMIM0"
+version = "uHsuicuM"

@@ -1,16 +1,16 @@
 name = "Creeper Overhaul"
-filename = "Creeperoverhaul-neoforge-1.21-4.0.5.jar"
+filename = "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MI1LWe93/versions/9rleJcdO/Creeperoverhaul-neoforge-1.21-4.0.5.jar"
+url = "https://cdn.modrinth.com/data/MI1LWe93/versions/HNrAYCLH/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
 hash-format = "sha512"
-hash = "3308fabfb7a4ed47bf20516fc752141d5a3bb766eb4130cd40f67d92d2c526e1b00212e722b7fd1438a28f98472925b2345e3264cc75e672a7fca06ab7bd8002"
+hash = "880ca9d8d23b527d3583cbe7fa399b2a26421b6ccba1deacd666cf9b61f4af4378157f404ab3789a7ae9c3c8693e2b7f6c8c532e703e5bb0e1881b9cc2879a6e"
 
 [update]
 [update.curseforge]
-file-id = 5725480
+file-id = 6051279
 project-id = 561625
 [update.modrinth]
 mod-id = "MI1LWe93"
-version = "9rleJcdO"
+version = "HNrAYCLH"

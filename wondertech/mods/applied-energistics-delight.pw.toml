@@ -1,16 +1,16 @@
 name = "Applied Energistics Delight"
-filename = "appliedenergisticsdelight-1.0.2.2-1.21.x.jar"
+filename = "appliedenergisticsdelight-1.0.2.6-1.21.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KgjxIaXg/versions/sEfNT7KB/appliedenergisticsdelight-1.0.2.2-1.21.x.jar"
+url = "https://cdn.modrinth.com/data/KgjxIaXg/versions/ErKNoiTz/appliedenergisticsdelight-1.0.2.6-1.21.x.jar"
 hash-format = "sha512"
-hash = "2070ec55d99ac7bdb8fb1903160e8e36ea87172f541e682bd0b033c4b38ff1efb9402423653f9e06ac1d871f41242a4597466a8f0ee952d219050453a3c81dc0"
+hash = "28d3829b95c9723a724d43c407cacdf12c6e814f08c3f5d4147f88ea15a80d351085f28bc75ec00d260e2b2909101dbab04ce492041f583cfcb4e24f6548be6d"
 
 [update]
 [update.curseforge]
-file-id = 5759639
+file-id = 6018614
 project-id = 1076340
 [update.modrinth]
 mod-id = "KgjxIaXg"
-version = "sEfNT7KB"
+version = "ErKNoiTz"

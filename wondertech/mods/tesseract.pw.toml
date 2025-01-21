@@ -1,16 +1,16 @@
 name = "Tesseract"
-filename = "tesseract-1.0.36-neoforge-mc1.21.jar"
+filename = "tesseract-1.0.37-neoforge-mc1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OUhp5O2m/versions/d2LYkI1v/tesseract-1.0.36-neoforge-mc1.21.jar"
+url = "https://cdn.modrinth.com/data/OUhp5O2m/versions/vO9U3AqU/tesseract-1.0.37-neoforge-mc1.21.jar"
 hash-format = "sha512"
-hash = "c744ef71b4cfe8792ab2c477d2f6ac100ad7f7107cb942c4ca1c8e2d03e0f5a6070d7f63d00f4556f6a5701263af851b63a7c5cb2ba657b1557921f9b9029cd2"
+hash = "581241021fdd69efce1813329fb6d1e3fd3d9c6884e3f2027dd677fb8aad579e3e52a9fedf9a39a4dab271c24589dae4372e7c6a0803712187f8ba23445da75a"
 
 [update]
 [update.curseforge]
-file-id = 6010929
+file-id = 6082086
 project-id = 379232
 [update.modrinth]
 mod-id = "OUhp5O2m"
-version = "d2LYkI1v"
+version = "vO9U3AqU"

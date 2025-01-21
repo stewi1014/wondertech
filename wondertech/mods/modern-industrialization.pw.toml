@@ -1,16 +1,16 @@
 name = "Modern Industrialization"
-filename = "Modern-Industrialization-2.2.29.jar"
+filename = "Modern-Industrialization-2.2.32.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Gov5Dboq/versions/EVrWAtXD/Modern-Industrialization-2.2.29.jar"
+url = "https://cdn.modrinth.com/data/Gov5Dboq/versions/kWXiUvmu/Modern-Industrialization-2.2.32.jar"
 hash-format = "sha512"
-hash = "618577aa76d849c53df148e1801699ae289595b724fcfe6b69f81e8cfc6cbbbcf31505385a45ddbb00215ea7803504312141ca2c0e9805f356e8f445b46fcf73"
+hash = "38ffaa4879c2434b6eeb3bcdfc6c8abe3c82153cbb1ea3311f4a79f989a8054d0129a2d020b0730da0fe68d1b5cd8b2cd8a203370dd5afbed8fd47d134efbaee"
 
 [update]
 [update.curseforge]
-file-id = 6006109
+file-id = 6097606
 project-id = 405388
 [update.modrinth]
 mod-id = "Gov5Dboq"
-version = "EVrWAtXD"
+version = "kWXiUvmu"

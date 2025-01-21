@@ -1,15 +1,15 @@
 name = "Extreme Reactors"
-filename = "ExtremeReactors2-1.21.1-2.4.9.jar"
+filename = "ExtremeReactors2-1.21.1-2.4.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/idkvShUy/versions/wABJBBTd/ExtremeReactors2-1.21.1-2.4.9.jar"
-hash-format = "sha512"
-hash = "4b934d4479751796a8c26327517f6a31a9f8a299023950947768deb7b9d8c77ac106e07024e0b88109f65fbb13d38b28d7d6a9026ae426c0b8f13a7fd0b33dea"
+hash-format = "sha1"
+hash = "19c4586968a374a336dc4fabd21a7deb3ae09f82"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5719857
+file-id = 6052271
 project-id = 250277
 [update.modrinth]
 mod-id = "idkvShUy"

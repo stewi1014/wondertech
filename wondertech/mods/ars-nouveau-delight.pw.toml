@@ -1,16 +1,16 @@
 name = "Ars Nouveau Delight"
-filename = "arsnouveaudelight-1.1.0.1-1.21.x.jar"
+filename = "arsnouveaudelight-1.1.0.5-1.21.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XjqM4mMx/versions/dRESBbGh/arsnouveaudelight-1.1.0.1-1.21.x.jar"
+url = "https://cdn.modrinth.com/data/XjqM4mMx/versions/nG5e4cKw/arsnouveaudelight-1.1.0.5-1.21.x.jar"
 hash-format = "sha512"
-hash = "fbe2e8721740c453cd0d3d4f3fceb902419671db852b8380f609e9e11ab69941845356e9ab6185aea680a4b12c4a8e3d21278bb57a5881b53a2627eac0126074"
+hash = "7127cb3150d17f2d455e89b19681d12b438ff3b943bcd75f65965847a36428de30475c0f5b8ff03137564a9abcc1efa141c5e372c4ed41051d74c8f52782426b"
 
 [update]
 [update.curseforge]
-file-id = 5892712
+file-id = 6030965
 project-id = 1074539
 [update.modrinth]
 mod-id = "XjqM4mMx"
-version = "dRESBbGh"
+version = "nG5e4cKw"

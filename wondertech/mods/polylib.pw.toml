@@ -1,15 +1,15 @@
 name = "PolyLib"
-filename = "polylib-2100.0.3-build.159-neoforge.jar"
+filename = "polylib-2100.0.3-build.160-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6lvkzFFj/versions/1lK0ukh4/polylib-2100.0.3-build.159-neoforge.jar"
-hash-format = "sha512"
-hash = "2221bea5435409354733a3411052b9a8734de30f17b6cbcc322bd7e1361d8d0c8bc35926f6cb2e0c3bd2a1114b9c71f60209dcd50df23dee614d4e6152d6e738"
+hash-format = "sha1"
+hash = "960ae5cf4b797a7e530f89bdc190f0051c668183"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5590874
+file-id = 5783008
 project-id = 576589
 [update.modrinth]
 mod-id = "6lvkzFFj"
