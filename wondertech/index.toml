@@ -56,27 +56,39 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ae2.zip"
-hash = "d23e67b8f4d4d88ebd09640e55f6e3b0c1485aa9f391bab930aece01c501dea7"
+hash = "dee183b1d5ee46194ec16887164a8111ce0e5869a3d8efe3499c2d857da0e9d2"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ambientsounds.zip"
-hash = "194e54f93e0f36797889b9338d1f097900288e0f876f93f7add20e406d702d1a"
+hash = "d8c5db9f498c3beea708fccf4f4212250af073a3b9234d3409d4a9dfe9370f20"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_dnt.zip"
-hash = "06e5591fb20e9e5606e492239d3b88705082c02b084696688b61119538d8c514"
+hash = "5307195323cacfc448d321d147dab1f549ceec9ffbabebfaaf17edd5909ce1a9"
+
+[[files]]
+file = "config/paxi/datapacks/bigglobe_extremereactors.zip"
+hash = "56ee8b8207c0634f5874803a47ca851a63bf01a5a5537e5fe11eed19873f0fdd"
+
+[[files]]
+file = "config/paxi/datapacks/bigglobe_farmersdelight.zip"
+hash = "006d84de5412c29f3bb8ef07e22e793967ed4543dadc7eea47487098a0d31e31"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_immersiveengineering.zip"
-hash = "5dd31a758d96417a6ff90d4f49aae0cfb9c6ad0848d055a4add88e9ac2a2e803"
+hash = "60411a29016e105bfb1896a52b4eb699761cfc25a979ffeae59b26fb51e2c139"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_integrateddynamics.zip"
-hash = "53b2ffed5cfbd4720d8f2a4b7cdefa7f85d437a0e9c75f8eadd0d924969f0463"
+hash = "c2f819514d7d73e7c43f22d248824dfb52fcb920c1703c185b9195b3ce5e8124"
+
+[[files]]
+file = "config/paxi/datapacks/bigglobe_ironsspellsandspellbooks.zip"
+hash = "d6fbc943ac90a7b53d10f6eea57c661e6d65cf852c92e52236fef821429cd782"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_mekanism.zip"
-hash = "ec01859942e297f10f6aec2d54f44cbc38d05b8db3460ea77bed0e0d32f7de85"
+hash = "3c6930914048f38ef85f7f576d426fa508cc0ce65368bc6ffd12ec4c47370c5b"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_modernindustrialization.zip"
@@ -84,7 +96,7 @@ hash = "b415c5e80c760dd187df01594d916ae7d7e593fb6b559963de33843de9b53498"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
-hash = "5fdd8de798c8a5f8b1fec2771d9816495874d707762f32f25e76ba1c4fc4952c"
+hash = "8f94eb0af9864d920d106f159a80ab14c93aaf3360ee1f0f376e43e3a0597996"
 
 [[files]]
 file = "config/paxi/datapacks/deeper-and-darker-farmers-delight-bark-cutting-compat.pw.toml"
@@ -98,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/bigglobe_ambientsounds.zip"
-hash = "194e54f93e0f36797889b9338d1f097900288e0f876f93f7add20e406d702d1a"
+hash = "d8c5db9f498c3beea708fccf4f4212250af073a3b9234d3409d4a9dfe9370f20"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
