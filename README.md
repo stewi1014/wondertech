@@ -35,7 +35,6 @@ java -jar packwiz-installer-bootstrap.jar -g -s server https://git.lenqua.link/m
 
 ## Mods
 This is not a complete list, but should give you an idea
-
  - Applied Energistics 2
  - Ars Nouveau
  - Big Globe

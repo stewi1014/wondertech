@@ -129,8 +129,8 @@ file = "configureddefaults/server.properties"
 hash = "f3bc8f06e39ef1b4547a8d3a68a9a24d8aeedb6cb061f97dc0f2dfd30586fe0b"
 
 [[files]]
-file = "mods/DistantHorizons-neoforge-2.3.0-b-dev-1.21.1.jar"
-hash = "ed73f2019f995cdf75296d9b4a85eb0cb99f43d2ad125447e655b9f9ec4d0956"
+file = "mods/DistantHorizons-2.3.0-datastores-dev-1.21.1-fabric-neoforge.jar"
+hash = "a87bfc0aa1d6af8e870489366ff711b585a4fe434c2422ea046e3b8f7c568d90"
 
 [[files]]
 file = "mods/Vertigo-1.0.0-MC1.21.1.jar"
