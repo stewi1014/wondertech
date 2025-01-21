@@ -88,7 +88,7 @@ hash = "d6fbc943ac90a7b53d10f6eea57c661e6d65cf852c92e52236fef821429cd782"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_mekanism.zip"
-hash = "6d2926016ac4426c09cd9bb950d56f0573cbf8409001c3ba9287e8b867582bc4"
+hash = "569a38db510ca70c86234c29b8d1dac39c033470bdfe90d7616304b598f57017"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
@@ -402,11 +402,6 @@ hash = "e8ff56a3f56c34204b0dffa49ef3aedcea0ddd6037e4eb241718fde2af90409b"
 metafile = true
 
 [[files]]
-file = "mods/extended-industrialization.pw.toml"
-hash = "446c81bded67170f88fb9553f3b747ea82515b3aa0abf3050b2d281d7a7d497a"
-metafile = true
-
-[[files]]
 file = "mods/extreme-reactors-delight.pw.toml"
 hash = "ed7aa29a1c5ce9ad7a7d937d930af0c9303cec68637094c54ad1dc1668b69605"
 metafile = true
@@ -469,11 +464,6 @@ metafile = true
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "acd2bee9576368ede653aa9df289f295a366789ec6ff9e331b06bf4c1aab5eda"
-metafile = true
-
-[[files]]
-file = "mods/industrialization-overdrive.pw.toml"
-hash = "d546a4e8cca9194813c5edf19d951c216f17ad25190c37a8e620cb690eb2f5a9"
 metafile = true
 
 [[files]]
@@ -592,16 +582,6 @@ hash = "dc4de39231cf069d0cdce631d6f72f0ea6664fede62e05c8ab5caa7d94925b0f"
 metafile = true
 
 [[files]]
-file = "mods/modern-industrialization-sound-addon.pw.toml"
-hash = "e384d30b20b1de67d023cdb3f46fab058353cf3f6436ce5718e1a458b4847098"
-metafile = true
-
-[[files]]
-file = "mods/modern-industrialization.pw.toml"
-hash = "c9b0d3af4ad59dd9accd81e635796408487878d9f00e22a79931b7d36e8202f2"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "f69a3febcf9e98264e6a10907b4f4301c4dab18d738914e1b38ddb2ca5f2fa7e"
 metafile = true
@@ -639,11 +619,6 @@ metafile = true
 [[files]]
 file = "mods/no-enderman-grief.pw.toml"
 hash = "3349a217141d1587f6ef03baf8cdd106ada041a8fce0972f1955781b320c0a33"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "eed32485bd7ccc8213e64d66a6bd335103b487305b9eaef9ebe4f791277d1ce3"
 metafile = true
 
 [[files]]
