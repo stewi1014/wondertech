@@ -91,10 +91,6 @@ file = "config/paxi/datapacks/bigglobe_mekanism.zip"
 hash = "3c6930914048f38ef85f7f576d426fa508cc0ce65368bc6ffd12ec4c47370c5b"
 
 [[files]]
-file = "config/paxi/datapacks/bigglobe_modernindustrialization.zip"
-hash = "b415c5e80c760dd187df01594d916ae7d7e593fb6b559963de33843de9b53498"
-
-[[files]]
 file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
 hash = "8f94eb0af9864d920d106f159a80ab14c93aaf3360ee1f0f376e43e3a0597996"
 

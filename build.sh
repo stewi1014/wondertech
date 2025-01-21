@@ -22,25 +22,36 @@ resourcepacks=(
 [ -d build/datapacks ] && rm -rf build/datapacks/* || mkdir -p build/datapacks
 [ -d build/resourcepacks ] && rm -rf build/resourcepacks/* || mkdir -p build/resourcepacks
 mkdir -p build/modpacks
+mkdir -p wondertech/config/paxi/datapacks
+mkdir -p wondertech/config/paxi/resourcepacks
 
 for datapack in "${datapacks[@]}"
 do
     cd "$datapack" || continue
-    zip -qrX "../build/datapacks/$datapack.zip" ./*
+    zip -qroX "../build/datapacks/$datapack.zip" ./*
+    cp "../build/datapacks/$datapack.zip" "../wondertech/config/paxi/datapacks/$datapack.zip"
     cd ..
 done
 
 for resourcepack in "${resourcepacks[@]}"
 do
     cd "$resourcepack" || continue
-    zip -qrX "../build/resourcepacks/$resourcepack.zip" ./*
+    zip -qroX "../build/resourcepacks/$resourcepack.zip" ./*
+    cp "../build/datapacks/$resourcepack.zip" "../wondertech/config/paxi/resourcepacks/$resourcepack.zip"
     cd ..
 done
-
-cp build/resourcepacks/* wondertech/config/paxi/resourcepacks
-cp build/datapacks/* wondertech/config/paxi/datapacks
 
 cd build/modpacks || exit
 packwiz mr export --pack-file=../../wondertech/pack.toml
 packwiz cf export --pack-file=../../wondertech/pack.toml
-cd ..
+cd ../..
+
+for datapack in "${datapacks[@]}"
+do
+    rm "wondertech/config/paxi/datapacks/$datapack.zip"
+done
+
+for resourcepack in "${resourcepacks[@]}"
+do
+    rm "wondertech/config/paxi/resourcepacks/$resourcepack.zip"
+done
