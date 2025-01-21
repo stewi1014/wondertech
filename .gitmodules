@@ -34,3 +34,6 @@
 [submodule "bigglobe_ironsspellsandspellbooks"]
 	path = bigglobe_ironsspellsandspellbooks
 	url = git@git.lenqua.link:minecraft/bigglobe_ironsspellsandspellbooks.git
+[submodule "packwiz"]
+	path = packwiz
+	url = git@github.com:packwiz/packwiz.git
