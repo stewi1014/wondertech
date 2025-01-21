@@ -1,0 +1,36 @@
+[submodule "bigglobe_ae2"]
+	path = bigglobe_ae2
+	url = git@git.lenqua.link:minecraft/bigglobe_ae2.git
+[submodule "bigglobe_ambientsounds"]
+	path = bigglobe_ambientsounds
+	url = git@git.lenqua.link:minecraft/bigglobe_ambientsounds.git
+[submodule "bigglobe_deeperdarker"]
+	path = bigglobe_deeperdarker
+	url = git@git.lenqua.link:minecraft/bigglobe_deeperdarker.git
+[submodule "bigglobe_dnt"]
+	path = bigglobe_dnt
+	url = git@git.lenqua.link:minecraft/bigglobe_dnt.git
+[submodule "bigglobe_extremereactors"]
+	path = bigglobe_extremereactors
+	url = git@git.lenqua.link:minecraft/bigglobe_extremereactors.git
+[submodule "bigglobe_farmersdelight"]
+	path = bigglobe_farmersdelight
+	url = git@git.lenqua.link:minecraft/bigglobe_farmersdelight.git
+[submodule "bigglobe_gregtechmodern"]
+	path = bigglobe_gregtechmodern
+	url = git@git.lenqua.link:minecraft/bigglobe_gregtechmodern.git
+[submodule "bigglobe_immersiveengineering"]
+	path = bigglobe_immersiveengineering
+	url = git@git.lenqua.link:minecraft/bigglobe_immersiveengineering.git
+[submodule "bigglobe_integrateddynamics"]
+	path = bigglobe_integrateddynamics
+	url = git@git.lenqua.link:minecraft/bigglobe_integrateddynamics.git
+[submodule "bigglobe_mekanism"]
+	path = bigglobe_mekanism
+	url = git@git.lenqua.link:minecraft/bigglobe_mekanism.git
+[submodule "bigglobe_tidaltowns"]
+	path = bigglobe_tidaltowns
+	url = git@git.lenqua.link:minecraft/bigglobe_tidaltowns.git
+[submodule "bigglobe_ironsspellsandspellbooks"]
+	path = bigglobe_ironsspellsandspellbooks
+	url = git@git.lenqua.link:minecraft/bigglobe_ironsspellsandspellbooks.git
