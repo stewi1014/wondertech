@@ -88,7 +88,7 @@ hash = "d6fbc943ac90a7b53d10f6eea57c661e6d65cf852c92e52236fef821429cd782"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_mekanism.zip"
-hash = "569a38db510ca70c86234c29b8d1dac39c033470bdfe90d7616304b598f57017"
+hash = "eaf6ff65e289d756ac5c139c363fde56b131f4297005f9662a05d2105973c24b"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
@@ -134,7 +134,7 @@ hash = "ed73f2019f995cdf75296d9b4a85eb0cb99f43d2ad125447e655b9f9ec4d0956"
 
 [[files]]
 file = "mods/Vertigo-1.0.0-MC1.21.1.jar"
-hash = "44951e81bf641633dc8ae80e99f45904a98ceb72a7e4e03df0b39ea84843e721"
+hash = "f7d94b5c7a5bf3891c26272e59d1f7631a4f7377ae401a0a0a17c6b6d67a0280"
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
