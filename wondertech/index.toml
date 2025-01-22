@@ -147,6 +147,11 @@ hash = "a63e0898e51a30ce994900a969e84e8a25bfadfbe48be054ff4397a49e08af2a"
 metafile = true
 
 [[files]]
+file = "mods/adorned.pw.toml"
+hash = "d31b7b20f6fa6a6844f66b0a47b27a7d4f448ae90d5ee6f6cd7c60b8e817fb48"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "2b3c7317b2327a44f409293f9632445782147ecacde633338baa906e7cf28fb3"
 metafile = true
@@ -497,6 +502,16 @@ hash = "190448574eedd6cc081c8c14e0c26bfe48e3e73f0198bd0cd0ac9ee95c27f8d2"
 metafile = true
 
 [[files]]
+file = "mods/irons-spells-delight.pw.toml"
+hash = "b1292718caa631a45315bfaab77344e2dfed50161dceffa96ec6f1c6662f0c33"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "ae1a594c5610a3077e7b9929a3d785d96d771dca41c161349312179c4bc34c99"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "40472d4f270720f7fb9606d7c3f261c892fb9e5801e34cc7bbab42182be9e2c6"
 metafile = true
@@ -624,6 +639,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "c41b2f631d7833a28322b8ca37a0dfbe2372d4ea9df3650612da83f265f71742"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "dd75a6edfb051fa7f9bd13b64313a5e202e6ecc37e7371f68678a7b06a9fcda1"
 metafile = true
 
 [[files]]
