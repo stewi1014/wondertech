@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ae2.zip"
-hash = "09749f0cefaa686b7a77271db6314185e520bd8328e74196b50836b2632e20fa"
+hash = "8a071e5bfde6afeb8789c85074f3c32a47ca531d66bdd86264460807b824c9f1"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ambientsounds.zip"
@@ -68,11 +68,15 @@ hash = "1a4f9f2ec4006dbd10b23f3b23056b038e1f4d5a49f85d277b2c657f586dcf04"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_extremereactors.zip"
-hash = "3bf493e26de95ccd6d4d4dfdeefc2defe25eada32be4f4d032ca1a00608e936e"
+hash = "dc9ee2b884126bb26118673845e20351d8edc58d759753cdc936a034b087b527"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_farmersdelight.zip"
 hash = "006d84de5412c29f3bb8ef07e22e793967ed4543dadc7eea47487098a0d31e31"
+
+[[files]]
+file = "config/paxi/datapacks/bigglobe_gregtechmodern.zip"
+hash = "86787d4beeaa89cefec0c31e063616b2ad1725eb89cb6e51737f8a201f624af6"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_immersiveengineering.zip"
@@ -84,7 +88,7 @@ hash = "c2f819514d7d73e7c43f22d248824dfb52fcb920c1703c185b9195b3ce5e8124"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ironsspellsandspellbooks.zip"
-hash = "8ff23d3667f93601e44fa624ffef8e30a66d57fe928fdfd494b2d1b8760cbb30"
+hash = "3b23c59706142b508af8433476ac965e691b42401480a6f8e2e1803344d53ba9"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_mekanism.zip"
@@ -122,7 +126,7 @@ hash = "2c072d32f69c357f41cd114ea6430c39fa441ec92391ea1f107bc1d95954cdb9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "564853e39cd0e34893da8befde1fada8897d7f6319f4e96f8cb3f977aec36fd1"
+hash = "8a423021d1f5918d255c3622ca832f9221f8f44769186cecd612d0546c98fc96"
 
 [[files]]
 file = "configureddefaults/server.properties"

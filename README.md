@@ -1,16 +1,21 @@
 # WonderTech
 
-A modpack that combines Big Globe world generation with some classic tech, and some other stuff.
-WonderTech is somewhat inspired by FTB Infinity Evolved, but also includes new terrain generation.
+A modpack that combines Big Globe world generation with a number of dimension, tech and magic mods.
 
-The terrain generation is a big one here. Big Globe is used, with extensions to support terrain generation features from the other mods (Over 100 structures added).
+## Mods
+These are some of the mods to give you an idea;
+ - Big Globe
+ - GregTechCEu Modern
+ - Applied Energistics 2
+ - Extreme Reactors
+ - Mekanism
+ - Ars Nouveau
+ - The Undergarden
+ - Eternal Starlight
+ - Deeper and Darker 
 
-A number of tech mods and some magic mods are included as well. It is a kitchen sink pack; there are no quests or clear progression path, but rather an array of content to explore and discover alongside the incredible new world.
-
-----
-
-This modpack represents a few casual hours of toying around now and then; these mods represent years of effort.
-If you like the modpack, go say thanks to some of the developers who wrote the mods.
+## Requirements
+This pack is more intensive than any pack I've seen before. It takes ~5 minutes from start to get into a single player game, uses 16-40GB of memory depending on settings and if you want to wait for Distant Horizons LODs, it'll take days.
 
 ## Install Server
 
@@ -32,17 +37,3 @@ Updating
 ```
 java -jar packwiz-installer-bootstrap.jar -g -s server https://git.lenqua.link/minecraft/wondertech/raw/tag/latest/pack.toml
 ```
-
-## Mods
-This is not a complete list, but should give you an idea
- - Applied Energistics 2
- - Ars Nouveau
- - Big Globe
- - Dungeons and Taverns
- - Extreme Reactors
- - Immersive Engineering
- - Integrated Dynamics
- - Mekanism
- - GregTechCEu Modern
- - The Undergarden & Eternal Starlight
- 

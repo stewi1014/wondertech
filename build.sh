@@ -6,7 +6,7 @@ datapacks=(
     "bigglobe_dnt"
     "bigglobe_extremereactors"
     "bigglobe_farmersdelight"
-#    "bigglobe_gregtechmodern"
+    "bigglobe_gregtechmodern"
     "bigglobe_immersiveengineering"
     "bigglobe_integrateddynamics"
     "bigglobe_ironsspellsandspellbooks"
