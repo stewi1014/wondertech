@@ -117,6 +117,10 @@ file = "configureddefaults/config/DistantHorizons.toml"
 hash = "a91dd4a57f1bebc19fcab64fe0a4ba125bf3a1d517c01b80a949ce1be85f2a08"
 
 [[files]]
+file = "configureddefaults/config/ars_nouveau-client.toml"
+hash = "931b54b18fb33b890e52678a4c76c18421f8c932716917a0f87d80b23de24f8b"
+
+[[files]]
 file = "configureddefaults/config/iris.properties"
 hash = "1be50d4144fb377083d2d3d73ccd4f92ea86873941a5c1e376927dd3f4437254"
 
@@ -131,6 +135,10 @@ hash = "8a423021d1f5918d255c3622ca832f9221f8f44769186cecd612d0546c98fc96"
 [[files]]
 file = "configureddefaults/server.properties"
 hash = "f3bc8f06e39ef1b4547a8d3a68a9a24d8aeedb6cb061f97dc0f2dfd30586fe0b"
+
+[[files]]
+file = "configureddefaults/shaderpacks/photon_v1.0a.zip.txt"
+hash = "473d27a4e14a8b13b4df361f4fc5d9a994ef03f9235c40cd5c97210a8743784c"
 
 [[files]]
 file = "mods/DistantHorizons-2.3.0-datastores-dev-1.21.1-fabric-neoforge.jar"
