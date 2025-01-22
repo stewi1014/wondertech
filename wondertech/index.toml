@@ -707,6 +707,11 @@ hash = "b31a49e75055ee33b50b047e5e06428c9f5df6a855e73b17654f29a5242a3d7a"
 metafile = true
 
 [[files]]
+file = "mods/scribble.pw.toml"
+hash = "babe2372d56eb32fd7a2cd7d4dc5aa4f131be3dab1854d1709a96bbd91dbe909"
+metafile = true
+
+[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "1363a175631f5f4c89e0957088666c42c1b153f2162479d0bfc3d4920997952d"
 metafile = true
