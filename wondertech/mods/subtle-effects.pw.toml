@@ -1,0 +1,16 @@
+name = "Subtle Effects"
+filename = "SubtleEffects-neoforge-1.21-1.8.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4q8UOK1d/versions/tlhBalp2/SubtleEffects-neoforge-1.21-1.8.0.jar"
+hash-format = "sha512"
+hash = "a7cb6ab23c212dde13a07d35fd0844d3450087d29f3df1945c38e2fc55ffc0bbe13bf6102adb03d8da036f8f2053e3a94ecfa94273b9e76324075d0e2d010743"
+
+[update]
+[update.curseforge]
+file-id = 6037372
+project-id = 1023913
+[update.modrinth]
+mod-id = "4q8UOK1d"
+version = "tlhBalp2"

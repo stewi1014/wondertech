@@ -242,6 +242,11 @@ hash = "c96c54daf22fdbaeec796146b9fcbdf94e2d37f91c881a863d9fd9766362ab94"
 metafile = true
 
 [[files]]
+file = "mods/bft.pw.toml"
+hash = "017ddda1ee235f53d1cb6803c798b8a07107a11985899f0434c15812f64b1e42"
+metafile = true
+
+[[files]]
 file = "mods/big-globe.pw.toml"
 hash = "bbc18a7bcb40d03663ae6aff90c5b81b4e4c2ab3f9e5938bda39d7226a361472"
 metafile = true
@@ -442,6 +447,11 @@ hash = "5470df94f0fda57d135f571da04b56864f17aca21f496b78c9947dc140940ccb"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "d6bb868700ffbe42ee838e0827d039144618427ccf5cfeb13e93c17188acd139"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "33aaa383d366c7f389fc0cd4515f088716bddac7bd264c237a4c430d950b005e"
 metafile = true
@@ -549,6 +559,11 @@ metafile = true
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "3b12b04878ea21eb50541a68bc2257205f6089e286d801265ea64ffb9f832730"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1dfd3d01acd9fe13db43da2a6302c15ad5525cbeb442dd4983a233d25752c9fa"
 metafile = true
 
 [[files]]
@@ -709,6 +724,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "d8fb37d079247467a4e5972511c52420f8c018e308b87179a54cc129daeb004c"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "ea52ff8e7fcc396106f7df14ecd6821973c647744aac65548bcd056881768594"
 metafile = true
 
 [[files]]

@@ -1,0 +1,16 @@
+name = "Better Fletching Tables (BFT)"
+filename = "3.1.0-BFT_mod-1.21-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XTJUiumo/versions/uLK0S6Um/3.1.0-BFT_mod-1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "0d7cc53a4e91bcf4de48f2d2013bb9fb68406685ad0206f065c69c55c7c667ba1765c91907ebe0e96fc0b2c194dba15de96fd43631985997a7701afc6653f304"
+
+[update]
+[update.curseforge]
+file-id = 5888325
+project-id = 1025421
+[update.modrinth]
+mod-id = "XTJUiumo"
+version = "uLK0S6Um"
