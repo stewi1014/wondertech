@@ -88,7 +88,7 @@ hash = "c2f819514d7d73e7c43f22d248824dfb52fcb920c1703c185b9195b3ce5e8124"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ironsspellsandspellbooks.zip"
-hash = "3b23c59706142b508af8433476ac965e691b42401480a6f8e2e1803344d53ba9"
+hash = "6a5f8ef58cf503d67548f3addae5c4a7d62445a3bccc4b722fb3bc473dcb76a3"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_mekanism.zip"
@@ -228,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "2ff836a27773a1ad04c8825632a39e7d008c46203bea9e7632878159446b5e07"
-metafile = true
-
-[[files]]
-file = "mods/axiom.pw.toml"
-hash = "7a5f1830a01e3b80f8401a4ba9a3dcd54a0b70d0d049a35a3f655c63489eab5a"
 metafile = true
 
 [[files]]
