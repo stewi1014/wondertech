@@ -1,0 +1,16 @@
+name = "Sophisticated Core"
+filename = "sophisticatedcore-1.21.1-1.1.5.839.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/UAHAprT7/sophisticatedcore-1.21.1-1.1.5.839.jar"
+hash-format = "sha512"
+hash = "561becc4789642c5472b143d0a76484d15d0c759ddc69f7e44fe4ad2d9684a77231328d367077b2cf59dc837c2e26944f7327f10167c10a8f069cc9871c8ff85"
+
+[update]
+[update.curseforge]
+file-id = 6104258
+project-id = 618298
+[update.modrinth]
+mod-id = "nmoqTijg"
+version = "UAHAprT7"
