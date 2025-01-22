@@ -287,6 +287,11 @@ hash = "78503c3989e51757ee572d1067506b23507a4feb1a94e52eec3e0b95f241e33c"
 metafile = true
 
 [[files]]
+file = "mods/configuration.pw.toml"
+hash = "87d029214a65d099c533cdaaaa5f182494ae61537b844ccd18cc271a2cbf13d6"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "6806164554a76bbe1435f9830b0659267cc2953b55de74d53c16c7cce857a9f5"
 metafile = true
@@ -447,6 +452,11 @@ hash = "ea0923516e45b155e879b54bb9eb4151511fd789d3cfbc11a72c8b2a12244567"
 metafile = true
 
 [[files]]
+file = "mods/gregtechceu-modern.pw.toml"
+hash = "f5ecab172b326d2423f326a3e13981deb6c38de9012db323b0031d3ff165f8c6"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "a3b82e0ea72cfc4585ec23a614a8142f6cabb4665b44f06382685a40dd864ee6"
 metafile = true
@@ -539,6 +549,11 @@ metafile = true
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "3b12b04878ea21eb50541a68bc2257205f6089e286d801265ea64ffb9f832730"
+metafile = true
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "9d462eeda5ac7931045c01ab5ae9d5a5983cf74d6593d8581a9d6864da1550a6"
 metafile = true
 
 [[files]]

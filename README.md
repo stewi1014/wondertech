@@ -44,5 +44,6 @@ This is not a complete list, but should give you an idea
  - Immersive Engineering
  - Integrated Dynamics
  - Mekanism
+ - GregTechCEu Modern
  - The Undergarden & Eternal Starlight
  
