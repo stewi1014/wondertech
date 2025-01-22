@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ae2.zip"
-hash = "dee183b1d5ee46194ec16887164a8111ce0e5869a3d8efe3499c2d857da0e9d2"
+hash = "09749f0cefaa686b7a77271db6314185e520bd8328e74196b50836b2632e20fa"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ambientsounds.zip"
@@ -92,7 +92,7 @@ hash = "eaf6ff65e289d756ac5c139c363fde56b131f4297005f9662a05d2105973c24b"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
-hash = "8f94eb0af9864d920d106f159a80ab14c93aaf3360ee1f0f376e43e3a0597996"
+hash = "074b6249f0918aed72cd8ac93d01f0e1926ee62ebbad45feaa71f839fffdff3b"
 
 [[files]]
 file = "config/paxi/datapacks/deeper-and-darker-farmers-delight-bark-cutting-compat.pw.toml"
@@ -664,6 +664,11 @@ metafile = true
 [[files]]
 file = "mods/no-enderman-grief.pw.toml"
 hash = "3349a217141d1587f6ef03baf8cdd106ada041a8fce0972f1955781b320c0a33"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "601dd3620a20f281780d756df9242d8e3795422d02a690e8758e28622fc72bd6"
 metafile = true
 
 [[files]]
