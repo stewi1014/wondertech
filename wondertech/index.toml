@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "14adbb869caaf8979eabc481df66c26f7b8142437a602d0859d36a6ef2f289bd"
+hash = "52de98ccebe4777aa3ac9cfef1a7b7871a6eba7938ca947749a570f4d4f9d879"
 
 [[files]]
 file = "config/paxi/datapacks/Big Globe - Ars Additions Compat.zip"
