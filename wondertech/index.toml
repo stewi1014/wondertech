@@ -498,6 +498,11 @@ hash = "873ce03c20197fe285d78c2f96c5c996d95befd7a1b70867bdbdece0a698f971"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "acd2bee9576368ede653aa9df289f295a366789ec6ff9e331b06bf4c1aab5eda"
 metafile = true
