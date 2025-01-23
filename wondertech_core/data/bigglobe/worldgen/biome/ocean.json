@@ -19,8 +19,8 @@
 	"spawners": {
 		"ambient": [
 			{ "type": "minecraft:bat",        "weight": 100, "minCount": 1, "maxCount": 4 },
-			{ "type": "livingthings:seahorse", "weight":  10, "minCount": 2, "maxCount": 4 },
-			{ "type": "livingthings:mantaray", "weight":  4, "minCount": 2, "maxCount": 4 }
+			{ "type": "livingthings:seahorse", "weight":  50, "minCount": 2, "maxCount": 4 },
+			{ "type": "livingthings:mantaray", "weight":  40, "minCount": 2, "maxCount": 4 }
 		],
 		"creature": [],
 		"misc": [],
@@ -29,7 +29,7 @@
 			{ "type": "minecraft:drowned",       "weight":  35, "minCount": 2, "maxCount": 4 },
 			{ "type": "minecraft:skeleton",      "weight": 100, "minCount": 2, "maxCount": 4 },
 			{ "type": "minecraft:spider",        "weight": 100, "minCount": 1, "maxCount": 4 },
-			{ "type": "creeperoverhaul:ocean_creeper", "weight": 100, "minCount": 2, "maxCount": 4 },
+			{ "type": "creeperoverhaul:ocean_creeper", "weight": 10, "minCount": 2, "maxCount": 4 },
 			{ "type": "minecraft:enderman",      "weight":  10, "minCount": 1, "maxCount": 3 },
 			{ "type": "minecraft:witch",         "weight":   5, "minCount": 1, "maxCount": 1 }
 		],
@@ -42,7 +42,7 @@
 		"water_creature": [
 			{ "type": "minecraft:squid",      "weight": 100, "minCount": 1, "maxCount": 4 },
 			{ "type": "minecraft:dolphin",    "weight":  40, "minCount": 1, "maxCount": 2 },
-			{ "type": "livingthings:shark",    "weight":  2, "minCount": 1, "maxCount": 2 }
+			{ "type": "livingthings:shark",    "weight":  20, "minCount": 1, "maxCount": 2 }
 		]
 	},
 	"temperature": 0.5
