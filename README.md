@@ -1,11 +1,11 @@
 # WonderTech
-A modpack that combines Big Globe world generation with a number of dimension, tech and magic mods.
+A big modpack that combines Big Globe world generation with a number of dimension, tech and magic mods.
 
 WonderTech expands on BigGlobe with a variety of tech, magic and exploration mods. 
 A number of datapacks extending support for these mods to Big Globe have been developed,
-giving a whole bunch more content to be found in the world.
+adding a whole bunch more content to be found in the world.
 
-Vast cave systems and over 20 new ores from *GragTech CEu Modern*, *Mekanism*, *Immersive Engineering* and more can be found underground, while *Ars Nouveau*, *Iron's Spells 'n Spellbooks*, *Dungeons and Taverns* and *YUNG's Structures* add structures that can be found throughout the world. 3 new worlds have also been added, with *Eternal Starlight*, *The Undergarden* and *Deeper and Darker* adding new dimensions to explore and a huge number more mods add items, mobs, blocks, tools and more.
+Vast cave systems and over 20 new ores from *GragTech CEu Modern*, *Mekanism*, *Immersive Engineering* and more can be found underground, while *Ars Nouveau*, *Iron's Spells 'n Spellbooks*, *Dungeons and Taverns* and *YUNG's Structures* add structures that can be found throughout the world. 3 new worlds have also been added, with *Eternal Starlight*, *The Undergarden* and *Deeper and Darker* each adding a new dimension to explore, and a whole bunch more mods add items, mobs, blocks, tools and more.
 
 ## Notes
 - This pack is quite intensive. I would reccomend 16GB of ram and at least 8 strong cores.
