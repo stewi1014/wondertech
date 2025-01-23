@@ -6,8 +6,7 @@
  - Try to replicate the terrain smoothing around structures that the dnt datapack has, for Iron's Spells 'n Spellbooks datapack.
  - Try to replicate the terrain smoothing around structures that the dnt datapack has, for Eternal Starlight datapack
  - Investigate floating village houses [link](./screenshots/2025-01-23_01.15.57.png)
- - Reduce city & mansion spawn rate.
- 
+
 # Potential additions
  - RFTools Dimensions
  - https://www.curseforge.com/minecraft/mc-mods/hyperbox

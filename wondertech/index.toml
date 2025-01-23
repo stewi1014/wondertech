@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/wondertech_core.zip"
-hash = "3e370e1dd3e02d73c0d069543d9f95d7427dc1c4ed0c7264d5321541d609d851"
+hash = "ad6744a78af4b3f998dc3a47b33673f10c5a3ea95495d1031f907073193a8630"
 
 [[files]]
 file = "config/paxi/resourcepacks/bigglobe_ambientsounds.zip"
@@ -138,7 +138,7 @@ hash = "8a423021d1f5918d255c3622ca832f9221f8f44769186cecd612d0546c98fc96"
 
 [[files]]
 file = "configureddefaults/server.properties"
-hash = "f3bc8f06e39ef1b4547a8d3a68a9a24d8aeedb6cb061f97dc0f2dfd30586fe0b"
+hash = "fa78a95a97aa5ce1e924a6df5b960493de4e6dfb6b45084acbf3bbacb4510dde"
 
 [[files]]
 file = "configureddefaults/shaderpacks/photon_v1.0a.zip.txt"
