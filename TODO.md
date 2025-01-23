@@ -2,12 +2,12 @@
  - Fix shader needing reloads on window resize
  - Bring back Dungeons and Taverns ruin_town (it floats too much ATM) [commit](https://git.lenqua.link/minecraft/bigglobe_dnt/commit/6288fb56d389a1c7f63a276ccee52153860c43ce) [images](https://discord.com/channels/1083837414885310606/1311716382458515576/1331558924406751292)
  - Make Iron's Spells 'n Spellbooks mountain_tower only spawn on mountains.
- - Make Big Globe compatability pack for Creeper Overhaul (biome-specific creepers)
  - Figure out why mobs from LivingThings aren't spawning
  - Add blackstone and Basalt versions of Benitoite Ore (extreme reactors)
  - Try to replicate the terrain smoothing around structures that the dnt datapack has, for Iron's Spells 'n Spellbooks datapack.
  - Try to replicate the terrain smoothing around structures that the dnt datapack has, for Eternal Starlight datapack
  - Investigate floating village houses [link](./screenshots/2025-01-23_01.15.57.png)
+ - Reduce city & mansion spawn rate.
  
 # Potential additions
  - RFTools Dimensions

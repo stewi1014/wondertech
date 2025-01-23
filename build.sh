@@ -12,6 +12,7 @@ datapacks=(
     "bigglobe_ironsspellsandspellbooks"
     "bigglobe_mekanism"
     "bigglobe_tidaltowns"
+    "wondertech_datapack"
 )
 
 resourcepacks=(
