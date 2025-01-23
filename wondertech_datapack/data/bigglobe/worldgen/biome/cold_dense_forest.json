@@ -25,7 +25,8 @@
 			{ "type": "minecraft:rabbit",          "weight": 100, "minCount": 3, "maxCount": 4 },
 			{ "type": "minecraft:chicken",         "weight":  40, "minCount": 2, "maxCount": 4 },
 			{ "type": "minecraft:fox",             "weight":  80, "minCount": 2, "maxCount": 4 },
-			{ "type": "minecraft:wolf",            "weight":  80, "minCount": 2, "maxCount": 4 }
+			{ "type": "minecraft:wolf",            "weight":  80, "minCount": 2, "maxCount": 4 },
+			{ "type": "livingthings:owl",          "weight":  30, "minCount": 1, "maxCount": 2 }
 		],
 		"misc": [],
 		"monster": [

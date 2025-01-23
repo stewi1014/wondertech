@@ -18,7 +18,8 @@
 	"spawn_costs": {},
 	"spawners": {
 		"ambient": [
-			{ "type": "minecraft:bat",        "weight": 100, "minCount": 1, "maxCount": 4 }
+			{ "type": "minecraft:bat",        "weight": 100, "minCount": 1, "maxCount": 4 },
+			{ "type": "livingthings:seahorse", "weight": 30, "minCount": 2, "maxCount": 4 }
 		],
 		"creature": [],
 		"misc": [],
@@ -37,7 +38,7 @@
 		"water_ambient": [
 			{ "type": "minecraft:cod",        "weight": 100, "minCount": 3, "maxCount": 6 }
 		],
-		"water_creature": []
+		"water_creature": [	]
 	},
 	"temperature": 0.5
 }
