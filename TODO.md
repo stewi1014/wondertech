@@ -6,6 +6,7 @@
  - Try to replicate the terrain smoothing around structures that the dnt datapack has, for Iron's Spells 'n Spellbooks datapack.
  - Try to replicate the terrain smoothing around structures that the dnt datapack has, for Eternal Starlight datapack
  - Investigate floating village houses [link](./screenshots/2025-01-23_01.15.57.png)
+ - Title background
 
 # Potential additions
  - RFTools Dimensions
