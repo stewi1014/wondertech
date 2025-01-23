@@ -23,7 +23,8 @@
 		],
 		"creature": [
 			{ "type": "minecraft:rabbit",          "weight": 100, "minCount": 2, "maxCount": 3 },
-			{ "type": "minecraft:armadillo",       "weight":  50, "minCount": 1, "maxCount": 2 }
+			{ "type": "minecraft:armadillo",       "weight":  50, "minCount": 1, "maxCount": 2 },
+			{ "type": "livingthings:lion",         "weight":  1, "minCount": 2, "maxCount": 4 }
 		],
 		"misc": [],
 		"monster": [

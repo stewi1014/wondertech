@@ -26,7 +26,8 @@
 			{ "type": "minecraft:rabbit",          "weight": 80, "minCount": 2, "maxCount": 4 },
 			{ "type": "minecraft:parrot",          "weight": 60, "minCount": 2, "maxCount": 4 },
 			{ "type": "minecraft:armadillo",       "weight": 40, "minCount": 1, "maxCount": 2 },
-			{ "type": "minecraft:ocelot",          "weight": 20, "minCount": 1, "maxCount": 2 }
+			{ "type": "minecraft:ocelot",          "weight": 20, "minCount": 1, "maxCount": 2 },
+			{ "type": "livingthings:ostrich",      "weight": 20, "minCount": 1, "maxCount": 2 }
 		],
 		"misc": [],
 		"monster": [

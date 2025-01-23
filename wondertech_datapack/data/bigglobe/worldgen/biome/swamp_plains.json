@@ -29,7 +29,9 @@
 		"ambient": [
 			{ "type": "minecraft:bat",             "weight": 100, "minCount": 1, "maxCount": 4 }
 		],
-		"creature": [],
+		"creature": [
+			{ "type": "livingthings:snail",        "weight":  5, "minCount": 1, "maxCount": 3 }
+		],
 		"misc": [],
 		"monster": [
 			{ "type": "minecraft:zombie",          "weight":  95, "minCount": 2, "maxCount": 4 },
