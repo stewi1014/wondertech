@@ -109,8 +109,8 @@ hash = "951ede190771346ec4395816964fbe43b1df4320d472f4a96ea4ca58d6514517"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/wondertech_datapack.zip"
-hash = "4a24a47c6b334e03eb4d9c30f0a96ef5f27f4e879fa1dbc6f33484db0466300b"
+file = "config/paxi/datapacks/wondertech_core.zip"
+hash = "3511d78792b3bcb651eee49fd76a14a7b8fc5180ef96495eb401e91aae809fcd"
 
 [[files]]
 file = "config/paxi/resourcepacks/bigglobe_ambientsounds.zip"
