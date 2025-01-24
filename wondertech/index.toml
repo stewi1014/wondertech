@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/wondertech_core.zip"
-hash = "ad6744a78af4b3f998dc3a47b33673f10c5a3ea95495d1031f907073193a8630"
+hash = "2fbafe119ed101413d8f9e0ea9858ff4aca70d8ea58e11dcca85d8d96b8ea254"
 
 [[files]]
 file = "config/paxi/resourcepacks/bigglobe_ambientsounds.zip"
