@@ -1,16 +1,16 @@
 name = "Integrated Tunnels"
-filename = "integratedtunnels-1.21.1-neoforge-1.8.32.jar"
+filename = "integratedtunnels-1.21.1-neoforge-1.8.32-360.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Etqy1Omb/versions/kUp5m6v3/integratedtunnels-1.21.1-neoforge-1.8.32.jar"
+url = "https://cdn.modrinth.com/data/Etqy1Omb/versions/tMPhMNNL/integratedtunnels-1.21.1-neoforge-1.8.32-360.jar"
 hash-format = "sha512"
-hash = "0ca8f5ea3a1f5a4db03e4ccde8e4665f2f48bd84d7687d6b373635da3e42c61588583495569909853a10ab779895125154bd45a69ecd511cd1ed4def80b7db0f"
+hash = "6c863cd1aa6c7163656180a81b0570344f7c026ef599bf7b53217fc7fd5ed36be2225fb216878679367400e31bbb08b300ecd5f9afc9d8513ff8b407d2cc6b1d"
 
 [update]
 [update.curseforge]
-file-id = 6066025
+file-id = 6125863
 project-id = 251389
 [update.modrinth]
 mod-id = "Etqy1Omb"
-version = "kUp5m6v3"
+version = "tMPhMNNL"

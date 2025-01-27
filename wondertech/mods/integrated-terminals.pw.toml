@@ -1,16 +1,16 @@
 name = "Integrated Terminals"
-filename = "integratedterminals-1.21.1-neoforge-1.6.7.jar"
+filename = "integratedterminals-1.21.1-neoforge-1.6.7-453.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HmLJoQ1K/versions/KkwIh3Dq/integratedterminals-1.21.1-neoforge-1.6.7.jar"
+url = "https://cdn.modrinth.com/data/HmLJoQ1K/versions/P2GIlU37/integratedterminals-1.21.1-neoforge-1.6.7-453.jar"
 hash-format = "sha512"
-hash = "a994ec11dfedae6d293797e19cc61fa3fa0dc6bae430cb9fbca8b62042cec614bbffe8f8d52eb51d3500659962abc8e8af959504b21674003930f49d8c88dc31"
+hash = "1afbb0b7c74431d2e7e1dfedd62d1c8e4cb3fb2b91d8c5c927a162c812e3cae88eca99ad691371f8d7677e2458c75d51f76f5b128ac2381936e8a2521ca6a841"
 
 [update]
 [update.curseforge]
-file-id = 6102447
+file-id = 6129611
 project-id = 295910
 [update.modrinth]
 mod-id = "HmLJoQ1K"
-version = "KkwIh3Dq"
+version = "P2GIlU37"

@@ -1,16 +1,16 @@
-name = "Not Enough Crashes"
-filename = "notenoughcrashes-neoforge-4.4.8+1.21.jar"
+name = "Not Enough Crashes (Forge)"
+filename = "notenoughcrashes-neoforge-4.4.8+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yM94ont6/versions/weHr8fZ5/notenoughcrashes-neoforge-4.4.8%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/yM94ont6/versions/h7H3wELi/notenoughcrashes-neoforge-4.4.8%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "ead30f13c721b53b7d9d12aa51a37574a798f3de8af1ae40c2d200c7ae0a4c17bf9f9edf85426b28863769ce887a4df67470ec24341de70fddbb934c4c306db3"
+hash = "393f6003365c32f15e757b6836cac018327d249067b662683a7a26608da90408ac8cf15d4f047e53a98bb2d4d4783bb72a9c65d4c520f30410411bc77552357d"
 
 [update]
 [update.curseforge]
-file-id = 6111100
+file-id = 6125812
 project-id = 442354
 [update.modrinth]
 mod-id = "yM94ont6"
-version = "weHr8fZ5"
+version = "h7H3wELi"

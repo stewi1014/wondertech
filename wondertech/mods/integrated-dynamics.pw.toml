@@ -1,16 +1,16 @@
 name = "Integrated Dynamics"
-filename = "integrateddynamics-1.21.1-neoforge-1.25.2.jar"
+filename = "integrateddynamics-1.21.1-neoforge-1.25.2-1049.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yYzdQHJI/versions/R0lTKAAL/integrateddynamics-1.21.1-neoforge-1.25.2.jar"
+url = "https://cdn.modrinth.com/data/yYzdQHJI/versions/tpTjNuwZ/integrateddynamics-1.21.1-neoforge-1.25.2-1049.jar"
 hash-format = "sha512"
-hash = "eccb5ffbad2b824e206d6013556ff56d0159799a1f956d5d95436bde381139b88b1dbc1d88463907094b7036fb1fea31b214855ea9a01c79a68b3a5b05b57761"
+hash = "54984ecec1cf3e6732567ff4e9af50f42ffddee5e95522ce08b7266d30dd688b57b2517d6eb43b8535a4490f9b86f5bffc4af5cf38b0943b3864eebf6f33828d"
 
 [update]
 [update.curseforge]
-file-id = 6083649
+file-id = 6125873
 project-id = 236307
 [update.modrinth]
 mod-id = "yYzdQHJI"
-version = "R0lTKAAL"
+version = "tpTjNuwZ"

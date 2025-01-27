@@ -1,16 +1,16 @@
 name = "Applied Experienced"
-filename = "applied-experienced-1.21.1-1.0.3.jar"
+filename = "applied-experienced-1.21.1-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yKwUnZCV/versions/T1QrontE/applied-experienced-1.21.1-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/yKwUnZCV/versions/zVVqIuuq/applied-experienced-1.21.1-1.1.0.jar"
 hash-format = "sha512"
-hash = "3fe0681b490242934e0f35f53781b6ec2e7855b41da311c47ee937dffbffbb71f7ca4bc768932c973a1d6352064ddde09b4d16fcecae39d81d6bbb6f72fc89e0"
+hash = "338ba98fe484e44fc5f56952db91c2a61cec7897def3e5892890b41c0a3dbc144167d8cae8e54530d853292198c40f270d78977f8bc40462a8d81047e0b12383"
 
 [update]
 [update.curseforge]
-file-id = 6080443
+file-id = 6112629
 project-id = 1157608
 [update.modrinth]
 mod-id = "yKwUnZCV"
-version = "T1QrontE"
+version = "zVVqIuuq"
