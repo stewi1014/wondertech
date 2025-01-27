@@ -64,7 +64,7 @@ hash = "d8c5db9f498c3beea708fccf4f4212250af073a3b9234d3409d4a9dfe9370f20"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_dnt.zip"
-hash = "893091812133b23bef789fc2a19205b70dc3100908d6c7abd838a0af6f2eb787"
+hash = "10b13c1bc4306a468339dd9b079b54b1eace9f554a783ccf793e7a774433c6c2"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_extremereactors.zip"
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/wondertech_core.zip"
-hash = "6b51a3633e5b6647efe7c5e25e7f898d643a7c3ff7a6b8dcf4caf3509be8827f"
+hash = "e43ad5733e0dfe57d97a7a1d2f97be379479c1d4bd8a7add9dd1a1c4ea08bcfa"
 
 [[files]]
 file = "config/paxi/resourcepacks/bigglobe_ambientsounds.zip"
