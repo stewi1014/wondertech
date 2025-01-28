@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "dca7f21da9355e4c011d25015a49fb1fe2a166bea16936aad757f9e97dfd3bb2"
+hash = "882b1804c61738aa9a317e55789df9f79a7ddb893d6f0b974f6d11e52fd72911"
 
 [[files]]
 file = "config/paxi/datapacks/Big Globe - Ars Additions Compat.zip"
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/wondertech_core.zip"
-hash = "58b37fbe6b5b90a009ac7ec7ee322399b01e765b85a66e365c5e303ccb4c03c8"
+hash = "b1b6e19d624447f21a20a6eda2fa0c9c2a10d551d1642c42f40170a90d7caa1a"
 
 [[files]]
 file = "config/paxi/resourcepacks/bigglobe_ambientsounds.zip"
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses-neoforge.pw.toml"
-hash = "fbc01e969ca6614d240bdfba6e940afaff5ed52379763c3a1a7e0073554c60d0"
+hash = "d5379f6132543cba1bd9626ac6372a2c6182b817874920b0a4e195af9e76b144"
 metafile = true
 
 [[files]]
