@@ -155,6 +155,10 @@ file = "mods/DistantHorizons-2.3.0-datastore-dev-1.21.1-fabric-neoforge.jar"
 hash = "407472ba61333d230e04f9aea93487c1f8555fd15b119154e5aa015570160816"
 
 [[files]]
+file = "mods/DistantHorizons-neoforge-2.3.0-datastore-dev-1.21.1.jar"
+hash = "20a5d0814be2d44c9915f6f15c74cdde81af2007ed98858e1dd43015af65b7eb"
+
+[[files]]
 file = "mods/Vertigo-1.0.0-MC1.21.1.jar"
 hash = "f7d94b5c7a5bf3891c26272e59d1f7631a4f7377ae401a0a0a17c6b6d67a0280"
 
