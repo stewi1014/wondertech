@@ -17,6 +17,10 @@ file = "config/paxi/datapacks/Big Globe - Eternal Starlight Compat.zip"
 hash = "d9526a7a91fbca979e45524094913c9b550eb7ee6938bad8af30a78d2e9fb5e2"
 
 [[files]]
+file = "config/paxi/datapacks/Big Globe - Incendium Compat.zip"
+hash = "d3f6cea947abb4b566f6ef2052122e5f023bbaf81b4d91cd6005d7d1377ca548"
+
+[[files]]
 file = "config/paxi/datapacks/Big Globe - YUNGs Better Nether Fortresses.zip"
 hash = "eb2ff4e5d148e12804396767fd1c2ebc06109c1eb6122f0f828ac4d29e0e104c"
 
@@ -497,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "873ce03c20197fe285d78c2f96c5c996d95befd7a1b70867bdbdece0a698f971"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "45ffb217f20f5f8e365a62e0a24562c230741b472fba717d309b16a4e1ccd82d"
 metafile = true
 
 [[files]]

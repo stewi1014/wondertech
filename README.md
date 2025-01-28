@@ -11,6 +11,10 @@ Vast cave systems and over 20 new ores from *GragTech CEu Modern*, *Mekanism*, *
 - This pack is quite intensive. I would reccomend 16GB of ram and at least 8 strong cores.
 - Press _R_ to reload the shader - this might be needed when resizing the window.
 
+## Thanks
+ - Many of the unlinked Big Globe datapacks either come directly from the Big Glboe discord,
+ have only been slightly modified, or have been developed using said datapacks as reference. Thanks to everyone involved on the Big Globe discord (+Spooner for churning out datapacks like a machine)
+
 ## Install Server
 
 #### Using mrpack-install
