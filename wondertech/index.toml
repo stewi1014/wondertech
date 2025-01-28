@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ae2.zip"
-hash = "8a071e5bfde6afeb8789c85074f3c32a47ca531d66bdd86264460807b824c9f1"
+hash = "c963b5ccdf979f7a0b39091dfe5bbe0ca7d080880308c86cf9d3e66770e3decc"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ambientsounds.zip"
