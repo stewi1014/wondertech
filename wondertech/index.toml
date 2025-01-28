@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "47a8587909a6f8e08f881c7da11d912e57d348f97c46e55198ad9ecc6fc27889"
+hash = "4bbb1637f5a9c8c6648b7ac4c79bfa3cced369a741c91a9311f446b679bc9f72"
 
 [[files]]
 file = "config/paxi/datapacks/Big Globe - Ars Additions Compat.zip"
@@ -151,8 +151,8 @@ file = "configureddefaults/shaderpacks/photon_v1.0a.zip.txt"
 hash = "473d27a4e14a8b13b4df361f4fc5d9a994ef03f9235c40cd5c97210a8743784c"
 
 [[files]]
-file = "mods/DistantHorizons-2.3.0-datastore-dev-1.21.1-fabric-neoforge.jar"
-hash = "407472ba61333d230e04f9aea93487c1f8555fd15b119154e5aa015570160816"
+file = "mods/DistantHorizons-neoforge-2.3.0-datastore-dev-1.21.1.jar"
+hash = "20a5d0814be2d44c9915f6f15c74cdde81af2007ed98858e1dd43015af65b7eb"
 
 [[files]]
 file = "mods/Vertigo-1.0.0-MC1.21.1.jar"

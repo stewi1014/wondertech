@@ -1,12 +1,12 @@
 name = "WonderTech"
 author = "Stewart Borle"
-version = "1.2.3"
+version = "1.2.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3939ed654570cb522683ba8a1599d07ae66ae208c0eb4237170d5a7a7bfec537"
+hash = "46276781761e235f0039bd582a7f8363bf60fdbe76c85635eab7548f078a43bd"
 
 [versions]
 minecraft = "1.21.1"
