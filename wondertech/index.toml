@@ -17,6 +17,18 @@ file = "config/paxi/datapacks/Big Globe - Eternal Starlight Compat.zip"
 hash = "d9526a7a91fbca979e45524094913c9b550eb7ee6938bad8af30a78d2e9fb5e2"
 
 [[files]]
+file = "config/paxi/datapacks/Big Globe - YUNGs Better Nether Fortresses.zip"
+hash = "eb2ff4e5d148e12804396767fd1c2ebc06109c1eb6122f0f828ac4d29e0e104c"
+
+[[files]]
+file = "config/paxi/datapacks/Big Globe - YUNGs Better Ocean Monument.zip"
+hash = "51318c8c68989104a78beb58b51ffca15cdac51b430b0bd3501126a2aa654236"
+
+[[files]]
+file = "config/paxi/datapacks/Big Globe - YUNGs Better Strongholds Compat.zip"
+hash = "560933d87567bdc400fe5c36f51aaa866ba30aa20b9c4393824a6af489d4c790"
+
+[[files]]
 file = "config/paxi/datapacks/Big_Globe__TOTW.zip"
 hash = "6d049f56bbc40a75bc07a47a4c3b54d92c1a1ba2480eca4fa5ff81ad930ca7cf"
 
@@ -37,16 +49,6 @@ metafile = true
 [[files]]
 file = "config/paxi/datapacks/big-globe-yungs-better-jungle-temples-compatibility.pw.toml"
 hash = "25ce440f87d80957afb7949dcd3db3c068f4800ed12ab8011664d576216ea401"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/big-globe-yungs-better-ocean-monuments-compatibility.pw.toml"
-hash = "0ed87e5e951961f47920b6239123f92f58853bfb2c8edcd5a65f66cc28c1f4e3"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/big-globe-yungs-better-strongholds-compatibility.pw.toml"
-hash = "27569c72186eab4e37863e25a92448753e87eb6933fb38b373a3d96f83106e3b"
 metafile = true
 
 [[files]]
@@ -835,6 +837,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
 hash = "25e19d06143be5f5cfcd4ca939c3de17a9e43c252e9aeca0d48e9f9a19d69d27"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses-neoforge.pw.toml"
+hash = "fbc01e969ca6614d240bdfba6e940afaff5ed52379763c3a1a7e0073554c60d0"
 metafile = true
 
 [[files]]
