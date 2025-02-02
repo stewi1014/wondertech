@@ -37,3 +37,6 @@
 [submodule "packwiz"]
 	path = packwiz
 	url = git@github.com:packwiz/packwiz.git
+[submodule "bigglobe_arsnouveau"]
+	path = bigglobe_arsnouveau
+	url = git@git.lenqua.link:minecraft/bigglobe_arsnouveau

@@ -9,10 +9,6 @@ file = "config/paxi/datapacks/Big Globe - Ars Additions Compat.zip"
 hash = "1c8e1f5226bc456f5caa1cd7a756b8963daa96b72ec67fda51846a80329e3c05"
 
 [[files]]
-file = "config/paxi/datapacks/Big Globe - Ars Nouveau Compat.zip"
-hash = "d512079f18112e42b53a81c978d923b38bd494bd7201a6a8e3d14dbd07a6cdec"
-
-[[files]]
 file = "config/paxi/datapacks/Big Globe - Eternal Starlight Compat.zip"
 hash = "d9526a7a91fbca979e45524094913c9b550eb7ee6938bad8af30a78d2e9fb5e2"
 
@@ -67,6 +63,10 @@ hash = "c963b5ccdf979f7a0b39091dfe5bbe0ca7d080880308c86cf9d3e66770e3decc"
 [[files]]
 file = "config/paxi/datapacks/bigglobe_ambientsounds.zip"
 hash = "d8c5db9f498c3beea708fccf4f4212250af073a3b9234d3409d4a9dfe9370f20"
+
+[[files]]
+file = "config/paxi/datapacks/bigglobe_arsnouveau.zip"
+hash = "f1cf650cafef0ee3fc7a5ec8b28cbc3de4793333149db7b585532a1cf4f58cf2"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_dnt.zip"
@@ -129,6 +129,10 @@ hash = "a91dd4a57f1bebc19fcab64fe0a4ba125bf3a1d517c01b80a949ce1be85f2a08"
 [[files]]
 file = "configureddefaults/config/ars_nouveau-client.toml"
 hash = "931b54b18fb33b890e52678a4c76c18421f8c932716917a0f87d80b23de24f8b"
+
+[[files]]
+file = "configureddefaults/config/betterdays-common.toml"
+hash = "976ebf5890a7ec6275a62c84c8921e855977bf6a52ab2e93e71a354b1104e4e6"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
@@ -700,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "16d03d56d43d4f52fc1fe0e804dd9b8a1effc6cf09e54908489e69bb897fb272"
+hash = "97d22fe1c9c995a3bbf7c014df076fe41625b7368c1eab9de55fc12205439cea"
 metafile = true
 
 [[files]]

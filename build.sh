@@ -3,6 +3,7 @@
 datapacks=(
     "bigglobe_ae2"
     "bigglobe_ambientsounds"
+    "bigglobe_arsnouveau"
     "bigglobe_dnt"
     "bigglobe_extremereactors"
     "bigglobe_farmersdelight"
