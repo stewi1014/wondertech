@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "47a8587909a6f8e08f881c7da11d912e57d348f97c46e55198ad9ecc6fc27889"
+hash = "c24e7fb9328080355efdfce5bdd8bb700acf622414339171fe08b612404eaeab"
 
 [[files]]
 file = "config/paxi/datapacks/Big Globe - Ars Additions Compat.zip"
@@ -69,6 +69,10 @@ file = "config/paxi/datapacks/bigglobe_arsnouveau.zip"
 hash = "f1cf650cafef0ee3fc7a5ec8b28cbc3de4793333149db7b585532a1cf4f58cf2"
 
 [[files]]
+file = "config/paxi/datapacks/bigglobe_creeperoverhaul.zip"
+hash = "6619bb81b939369d109eebb6dab8c2863d6d0c0afabd6c22f8bfb97bc5eb87a7"
+
+[[files]]
 file = "config/paxi/datapacks/bigglobe_dnt.zip"
 hash = "b8a1a6a31abd01ed3b497a0c606446b0ae1ad08fb56ba6e84265ddeb7e65248e"
 
@@ -97,6 +101,10 @@ file = "config/paxi/datapacks/bigglobe_ironsspellsandspellbooks.zip"
 hash = "fb3734179f0eebe0e08425b76e36179bc341709ff3e16c3977f8edf3b1bc7303"
 
 [[files]]
+file = "config/paxi/datapacks/bigglobe_livingthings.zip"
+hash = "fcbdd101cea961fd71bedb47335c74f024494da4befd5aafdbd34df86a88d42b"
+
+[[files]]
 file = "config/paxi/datapacks/bigglobe_mekanism.zip"
 hash = "eaf6ff65e289d756ac5c139c363fde56b131f4297005f9662a05d2105973c24b"
 
@@ -116,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/wondertech_core.zip"
-hash = "b1b6e19d624447f21a20a6eda2fa0c9c2a10d551d1642c42f40170a90d7caa1a"
+hash = "c6fe306d81cfece18c5ebde34fb398ce189a0978824895159778f43ebca86ccb"
 
 [[files]]
 file = "config/paxi/resourcepacks/bigglobe_ambientsounds.zip"

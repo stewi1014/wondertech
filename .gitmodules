@@ -40,3 +40,9 @@
 [submodule "bigglobe_arsnouveau"]
 	path = bigglobe_arsnouveau
 	url = git@git.lenqua.link:minecraft/bigglobe_arsnouveau
+[submodule "bigglobe_creeperoverhaul"]
+	path = bigglobe_creeperoverhaul
+	url = git@git.lenqua.link:minecraft/bigglobe_creeperoverhaul
+[submodule "bigglobe_livingthings"]
+	path = bigglobe_livingthings
+	url = ./bigglobe_livingthings
