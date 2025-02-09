@@ -3,6 +3,7 @@
 datapacks=(
     "bigglobe_ae2"
     "bigglobe_ambientsounds"
+    "bigglobe_aquaticfrontiers"
     "bigglobe_arsnouveau"
     "bigglobe_creeperoverhaul"
     "bigglobe_dnt"
@@ -14,6 +15,7 @@ datapacks=(
     "bigglobe_ironsspellsandspellbooks"
     "bigglobe_livingthings"
     "bigglobe_mekanism"
+    "bigglobe_monsterplus"
     "bigglobe_tidaltowns"
     "bigglobe_towersofthewild"
     "wondertech_core"
