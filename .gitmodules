@@ -49,3 +49,9 @@
 [submodule "bigglobe_towersofthewild"]
 	path = bigglobe_towersofthewild
 	url = git@git.lenqua.link:minecraft/bigglobe_towersofthewild
+[submodule "bigglobe_monsterplus"]
+	path = bigglobe_monsterplus
+	url = git@git.lenqua.link:minecraft/bigglobe_monsterplus
+[submodule "bigglobe_aquaticfrontiers"]
+	path = bigglobe_aquaticfrontiers
+	url = git@git.lenqua.link:minecraft/bigglobe_aquaticfrontiers

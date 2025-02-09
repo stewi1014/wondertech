@@ -61,6 +61,10 @@ file = "config/paxi/datapacks/bigglobe_ambientsounds.zip"
 hash = "d8c5db9f498c3beea708fccf4f4212250af073a3b9234d3409d4a9dfe9370f20"
 
 [[files]]
+file = "config/paxi/datapacks/bigglobe_aquaticfrontiers.zip"
+hash = "ab95e02559f6352d8deb3afbd32e8ea31fe5a9adffd30abdcb7e920a0cea9531"
+
+[[files]]
 file = "config/paxi/datapacks/bigglobe_arsnouveau.zip"
 hash = "f1cf650cafef0ee3fc7a5ec8b28cbc3de4793333149db7b585532a1cf4f58cf2"
 
@@ -103,6 +107,10 @@ hash = "fcbdd101cea961fd71bedb47335c74f024494da4befd5aafdbd34df86a88d42b"
 [[files]]
 file = "config/paxi/datapacks/bigglobe_mekanism.zip"
 hash = "eaf6ff65e289d756ac5c139c363fde56b131f4297005f9662a05d2105973c24b"
+
+[[files]]
+file = "config/paxi/datapacks/bigglobe_monsterplus.zip"
+hash = "ee97a1d86010ec7ed69b5e1ca4198d49acbe73d74ce324ab8bf447877ccf7d46"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
@@ -663,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/mifa.pw.toml"
 hash = "dc4de39231cf069d0cdce631d6f72f0ea6664fede62e05c8ab5caa7d94925b0f"
+metafile = true
+
+[[files]]
+file = "mods/monsterplus.pw.toml"
+hash = "27b92179fa8454293f03c5a7662a840eac8d3d31ea2fd1fc50e37204919b4451"
 metafile = true
 
 [[files]]
