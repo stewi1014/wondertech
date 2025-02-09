@@ -29,10 +29,6 @@ file = "config/paxi/datapacks/Big Globe - YUNGs Better Strongholds Compat.zip"
 hash = "560933d87567bdc400fe5c36f51aaa866ba30aa20b9c4393824a6af489d4c790"
 
 [[files]]
-file = "config/paxi/datapacks/Big_Globe__TOTW.zip"
-hash = "6d049f56bbc40a75bc07a47a4c3b54d92c1a1ba2480eca4fa5ff81ad930ca7cf"
-
-[[files]]
 file = "config/paxi/datapacks/Towers_Of_The_Wild_Reworked_v4.3.0_Waystone.zip"
 hash = "47ca184c5166e17363079d6fd79e4acca5c73ed5689a857115a96a86a7553407"
 
@@ -111,6 +107,10 @@ hash = "eaf6ff65e289d756ac5c139c363fde56b131f4297005f9662a05d2105973c24b"
 [[files]]
 file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
 hash = "2309d7e90ff643a6194b30e0dd0117158ee8b7c5843103f7ce077541b1c97344"
+
+[[files]]
+file = "config/paxi/datapacks/bigglobe_towersofthewild.zip"
+hash = "0237c2d66126ab515caff1f1071ea0eefe3d172a8fb13f9659759a398b908e19"
 
 [[files]]
 file = "config/paxi/datapacks/deeper-and-darker-farmers-delight-bark-cutting-compat.pw.toml"

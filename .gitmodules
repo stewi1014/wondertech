@@ -45,4 +45,7 @@
 	url = git@git.lenqua.link:minecraft/bigglobe_creeperoverhaul
 [submodule "bigglobe_livingthings"]
 	path = bigglobe_livingthings
-	url = ./bigglobe_livingthings
+	url = git@git.lenqua.link:minecraft/bigglobe_livingthings
+[submodule "bigglobe_towersofthewild"]
+	path = bigglobe_towersofthewild
+	url = git@git.lenqua.link:minecraft/bigglobe_towersofthewild

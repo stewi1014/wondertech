@@ -15,6 +15,7 @@ datapacks=(
     "bigglobe_livingthings"
     "bigglobe_mekanism"
     "bigglobe_tidaltowns"
+    "bigglobe_towersofthewild"
     "wondertech_core"
 )
 
