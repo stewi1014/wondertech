@@ -13,6 +13,7 @@
  - [Moog's Nether Structures](https://discord.com/channels/1083837414885310606/1331660022689697874)
  - [Incendium](https://discord.com/channels/1083837414885310606/1331677106014523423)
  - [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
+ - [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
 
 ### Wrong MC Version
  - Odd Organisms
