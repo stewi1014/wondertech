@@ -102,7 +102,7 @@ hash = "fb3734179f0eebe0e08425b76e36179bc341709ff3e16c3977f8edf3b1bc7303"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_livingthings.zip"
-hash = "fcbdd101cea961fd71bedb47335c74f024494da4befd5aafdbd34df86a88d42b"
+hash = "df1751b05a8fbb97ee8caa72fc54496f1a33fdc6b717c3100134dc18dfb0fca1"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_mekanism.zip"
@@ -110,7 +110,7 @@ hash = "eaf6ff65e289d756ac5c139c363fde56b131f4297005f9662a05d2105973c24b"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_monsterplus.zip"
-hash = "7c71ba7874630e236c3692776c6ba35283e253cd975ac4d9249dbad0488ed276"
+hash = "7934709ff0dd4bc75fb29c391d79fdf80d778bfe7d99ec423ee1eba247a6fc32"
 
 [[files]]
 file = "config/paxi/datapacks/bigglobe_tidaltowns.zip"
