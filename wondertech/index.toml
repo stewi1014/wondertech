@@ -314,6 +314,11 @@ hash = "cc9af442bcc262ed9cd358441858860aef02c8dbdf7caf1ba19d5143390b22ad"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "bbc4ade6d369dbaa675bf736246fd7c1dc8e44b2ee5156aefe3ec83973d7d28a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9cc518bde184297744656416a91f5b1b35e4c88bf62ddc14fd3f17ea29a448db"
 metafile = true
